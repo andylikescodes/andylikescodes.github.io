@@ -15,7 +15,7 @@ kramdown:
 excerpt_separator: "<!-- more -->"
 sass:
   style: compressed
-  sass_dir: _scss    
+  sass_dir: _scss
 paginate: 5
 paginate_path: '/blog/page:num'
 permalink: pretty
@@ -37,15 +37,15 @@ author:
 
 # Navigation (2nd level links supported)
 nav:
-  Home:           
-    - '/'
-  Blog:           
+  Home:
+    - '/blog/'
+  Blog:
     - '/blog/'
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
-  About:          
+  About:
     - '/about/'
-  Github Project: 
+  Github Project:
     - 'http://codinfox.github.io/'
 
 # Where are tags and categories displayed
@@ -60,4 +60,3 @@ hero:
 mathjax: true # whether support mathjax
 google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
 disqus_short_name: 'andylikescodes-github-io' # leave blank if you don't want disqus
-
