@@ -45,8 +45,8 @@ nav:
     - { Tags: '/blog/tags/' }
   About:
     - '/about/'
-  Github Project:
-    - 'http://codinfox.github.io/'
+  Github Page:
+    - 'http://github.com/andylikescodes'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
