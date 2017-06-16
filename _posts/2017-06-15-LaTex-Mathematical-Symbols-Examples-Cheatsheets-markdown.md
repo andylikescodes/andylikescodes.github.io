@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: LaTeX Mathematical Symbol examples & Cheatsheet (Markdown)
 tag: [tools]
