@@ -33,6 +33,9 @@ $$\rho, \sigma, \Phi, \Psi, \delta, \Delta, \tau$$
 $$\rho, \sigma, \Phi, \Psi, \delta, \Delta, \tau$$
 ```
 $$\hat{x}, \widehat{abc}, \overrightarrow{xyz}$$
+```
+$$\hat{x}, \widehat{abc}, \overrightarrow{xyz}$$
+```
 
 ## Parentheses
 $$\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)$$
@@ -82,6 +85,9 @@ $$\iiint_{D}f(x,y,z)dxdydz$$
 $$\iiint_{D}f(x,y,z)dxdydz$$
 ```
 $$\frac{\partial}{\partial{x}}f(x,y)$$
+```
+$$\frac{\partial}{\partial{x}}f(x,y)$$
+```
 
 ## Sets
 $$\cup \cap \setminus \subset \subseteq \subsetneq \supset \in \notin \emptyset \varnothing$$
