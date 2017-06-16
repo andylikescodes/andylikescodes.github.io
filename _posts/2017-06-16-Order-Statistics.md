@@ -42,8 +42,8 @@ Where $$F(x_{i})$$ is the CDF of $$X_i$$. The intuition is that $$P(X_{i}<=y_k)$
 From the kth order statistic distribution we can derive the distribution of $$Y_{1}$$ and $$Y_{n}$$:
 
 $$\begin{array}{l}
-g_1(y_1)=n[1-F(y_1)]^{n-1} \\
-g_n(y_n)=n[F(y_n)]^{n-1}f(y_n)]
+g_1(y_1)=n[1-F(y_1)]^{n-1}f(y_1) \\
+g_n(y_n)=n[F(y_n)]^{n-1}f(y_n)
 \end{array}$$
 
 ## The CDF of $$Y_k$$
