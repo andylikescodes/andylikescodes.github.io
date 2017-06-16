@@ -108,12 +108,12 @@ $$\left( \begin{array}{cc} 2\vec{\tau} & 7\phi-\frac{5}{12}
 \\3\psi & \frac{\pi}8 \end{array} \right)$$
 ```
 
-$$\[ \begin{array}{lcr}
+$$\left\[ \begin{array}{lcr}
 \mbox{First number} & x & 8 \\
 \mbox{Second number} & y & 15 \\
 \mbox{Sum} & x + y & 23 \\
 \mbox{Difference} & x - y & -7 \\
-\mbox{Product} & xy & 120 \end{array}\] $$
+\mbox{Product} & xy & 120 \end{array}\right\] $$
 ```
 \[ \begin{array}{lcr}
 \mbox{First number} & x & 8 \\
