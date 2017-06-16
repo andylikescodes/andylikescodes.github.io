@@ -104,13 +104,8 @@ P[K>=k]&=&1-P[K<k]\\
 
 Then we can conclude that:
 
-$$\left
-\begin{array}{lcl}
-G_k(y_k)&=&P[Y_k\leq y_k]\\
-&=&P[K>=k]\\
-&=&\sum_{j=k}^{n}{n \choose j}[F(y_k)]^j[1-F(y_k)]^{n-j}
-\end{array}
- \right$$
+$$\left\begin{array}{lcl}
+G_k(y_k)&=&P[Y_k\leq y_k]\\&=&P[K>=k]\\&=&\sum_{j=k}^{n}{n \choose j}[F(y_k)]^j[1-F(y_k)]^{n-j}\end{array}\right$$
 
 ## Application
 
