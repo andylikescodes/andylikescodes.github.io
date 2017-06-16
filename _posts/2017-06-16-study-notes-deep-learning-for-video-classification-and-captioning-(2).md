@@ -13,7 +13,7 @@ Different from video classification, the goal of video captioning is to automati
 There is also a difference between video tagging and video captioning. Video tagging is to describe what is the video, and it can also extend to where the objects are, while video captioning is trying to use natural sentence to describe what the objects in the videos are interacting to each other, attempting to extract more in-depth meanings from the context of the video.
 
 There is a picture in the original paper explain this very well:
-![tagging vs captioning](../public/img/blog_imgs/videotaggingvscaptioning.png)
+![tagging vs captioning](/public/img/blog_imgs/videotaggingvscaptioning.png)
 
 Recent development in translation has inspired many good research in the field despite the fact this it is a very difficult problem. In general, CNNs are used to extract visual representation on the videos and RNNs (LSTM) are used to general natural languages.
 
