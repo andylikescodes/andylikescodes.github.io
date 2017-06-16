@@ -20,7 +20,9 @@ $$\times \div \pm \mp$$
 $$\frac{\sqrt{abc}}{\sqrt[3]{xyz}}\cdot\max(x)\times|y|\div{\|\bar{x}\|}\approx\theta \cup \alpha \cap \beta \oplus \lambda $$
 
 ```
-$$\frac{\sqrt{abc}}{\sqrt[3]{xyz}}+\max(x)\times|y|\div{\|\bar{x}\|}}\approx\theta \cup \alpha \cap \beta \oplus \lambda$$
+$$\frac{\sqrt{abc}}{\sqrt[3]{xyz}}+\max(x)\times
+|y|\div{\|\bar{x}\|}}\approx\theta \cup \alpha \cap 
+\beta \oplus \lambda$$
 ```
 $$\pi, \chi, \epsilon, \eta, \gamma,\phi, \psi$$
 ```
@@ -68,7 +70,8 @@ $$\frac{d}{dx}f(x) = f'(x)$$
 ```
 $$\lim_{\Delta{x}\to0}\frac{f(x+\Delta{x})-f(x)}{\Delta{x}} = \frac{d}{dx}f(x)$$
 ```
-$$\lim_{\Delta{x}\to0}\frac{f(x+\Delta{x})-f(x)}{\Delta{x}} = \frac{d}{dx}f(x)$$
+$$\lim_{\Delta{x}\to0}\frac{f(x+\Delta{x})-f(x)}
+{\Delta{x}} = \frac{d}{dx}f(x)$$
 ```
 $$\int_a^b\int_\infty^{-\infty}f(x,y)dxdy$$
 ```
@@ -83,7 +86,8 @@ $$\frac{\partial}{\partial{x}}f(x,y)$$
 #### Sets
 $$\cup \cap \setminus \subset \subseteq \subsetneq \supset \in \notin \emptyset \varnothing$$
 ```
-$$\cup \cap \setminus \subset \subseteq \subsetneq \supset \in \notin \emptyset \varnothing$$
+$$\cup \cap \setminus \subset \subseteq \subsetneq 
+\supset \in \notin \emptyset \varnothing$$
 ```
 $${n+1 \choose 2k}$$
 ```
@@ -100,7 +104,8 @@ $$f(x) = \sum_{i=0}^n x^{i} + \prod_{i=0}^n x^{i}$$
 #### Matrix & vectors
 $$\left( \begin{array}{cc} 2\vec{\tau} & 7\phi-\frac{5}{12} \\3\psi & \frac{\pi}8 \end{array} \right)$$
 ```
-$$\left( \begin{array}{cc} 2\vec{\tau} & 7\phi-\frac{5}{12} \\3\psi & \frac{\pi}8 \end{array} \right)$$
+$$\left( \begin{array}{cc} 2\vec{\tau} & 7\phi-\frac{5}{12} 
+\\3\psi & \frac{\pi}8 \end{array} \right)$$
 ```
 
 All the examples from the above are summarized from the following resources:
