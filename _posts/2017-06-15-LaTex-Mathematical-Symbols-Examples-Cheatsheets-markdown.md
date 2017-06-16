@@ -128,4 +128,4 @@ All the examples from the above are summarized from the following resources:
 - LaTex examples [Mathematica](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 - [Matrices and other arrays in LaTeX](http://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/Matrices.html)
 
-A useful online [markdown & LaTeX editor](https://upmath.me/).
+Here is a useful online [markdown & LaTeX editor](https://upmath.me/).
