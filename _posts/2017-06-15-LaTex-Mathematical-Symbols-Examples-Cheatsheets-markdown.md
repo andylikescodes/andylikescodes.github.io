@@ -16,8 +16,9 @@ $$\times \div \pm \mp$$
 ```
 $$\times \div \pm \mp$$
 ```
-
+{ % raw %}
 $$\frac{\sqrt{abc}}{\sqrt[3]{xyz}}\cdot\max(x)\times|y|\div{\|\bar{x}\|}}\approx\theta \cup \alpha \cap \beta \oplus \lambda$$
+{% endraw%}
 ```
 $$\frac{\sqrt{abc}}{\sqrt[3]{xyz}}+\max(x)\times|y|\div{\|\bar{x}\|}}\approx\theta \cup \alpha \cap \beta \oplus \lambda$$
 ```
