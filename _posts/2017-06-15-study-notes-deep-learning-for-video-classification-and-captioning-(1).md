@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Study Notes - Deep Learning for Video Classification and Captioning (1)
-tag: [deep learning, computer vision]
+tag: [Deep Learning, Computer Vision]
 category: Deep Learning
 ---
 
-This blog post is a study note for the paper [Deep Learning for Video Classification and Captioning](https://arxiv.org/abs/1609.06782) published by Zuxuan Wu, Ting Yao, Yuanwei Fu, and Yu-Guang Jiang in 2016.
+This blog post is a study note summary for the paper [Deep Learning for Video Classification and Captioning](https://arxiv.org/abs/1609.06782) published by Zuxuan Wu, Ting Yao, Yuanwei Fu, and Yu-Guang Jiang in 2016.
+
+This paper provides a great introduction and review of the research on video classification and video captioning. It is a very good first read for researchers who are new to the video processing and natural language processing with some machine learning and deep learning background.
 
 ## Problem
-With the availability of video data, a need has raised for developing applications to understand the meaning of video streams. Video captioning and video classification are two main lines of research on this problem. This paper is a review of resent research on the two topics with an emphasis on deep learning and feature extraction.
+With the availability of video data, a need has raised to develop applications to understand the meaning of video streams. Video captioning and video classification are two main lines of research to this problem. This paper is a review of resent research on the two topics with an emphasis on deep learning and feature extraction.
 
 ## Deep Learning Modules
 - Convolutional Neural Networks (CNNs)

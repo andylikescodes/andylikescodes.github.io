@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LaTeX Mathematical Symbol Examples & Cheatsheet (Markdown)
-tag: [tools, LaTeX]
+tag: [Tools, LaTeX]
 category: Useful Tools
 ---
 
