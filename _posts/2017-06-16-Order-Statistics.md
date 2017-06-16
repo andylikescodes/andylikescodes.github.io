@@ -54,7 +54,7 @@ g_n(y_n)=n[F(y_n)]^{n-1}f(y_n)]
 
 From the pdf of $$g_1(y_1)$$ and $$g_n(y_n)$$ we can derive the CDF of them $$G_1(y_1)$$ and $$G_n(y_n)$$.
 
-$$\left\
+$$\left
 \begin{array}{lcl}
 G_1(y_1)&=&P[Y_1\leq y_1] \\
 &=&1-P[Y_1>y_1]\\
@@ -65,7 +65,7 @@ G_1(y_1)&=&P[Y_1\leq y_1] \\
 
 The intuition of $$G_1(y_1)$$ is that the probability of the smallest number of all random samples from $$X_i$$ is smaller than or equal to $$y_1$$, which is equal to the probability of all the samples in $$X_i$$ are greater than $$y_i$$.
 
-$$\left\
+$$\left
 \begin{array}{lcl}
 G_n(y_n)&=&P[Y_n\leq y_n] \\
 &=&P[(X_1<y_1)\cap(X_2<y_1)\cap...\cap(X_n<y_1)]\\
@@ -77,7 +77,7 @@ The intuition of $$G_1(y_1)$$ is that the probability of the largest number of a
 
 Similarly, we can derive the CDF of $$Y_k$$:
 
-$$\left\
+$$\left
 \begin{array}{lcl}
 G_k(y_k)&=&P[Y_k\leq y_k]
 \end{array}
@@ -93,7 +93,7 @@ where $$p=P[X_{i}<=y_k]=F(y_k)$$.
 
 Then we can calculate the probability of at least $$k$$ number of $$X_i$$ are smaller than $$y_k$$, $$P[K>=k]$$, by following the CDF of bin(k;n,p):
 
-$$\left\
+$$\left
 \begin{array}{lcl}
 P[K>=k]&=&1-P[K<k]\\
 &=&1 - \sum_{j=0}^{k-1}bin(j;n,p)\\
@@ -104,7 +104,7 @@ P[K>=k]&=&1-P[K<k]\\
 
 Then we can conclude that:
 
-$$\left\
+$$\left
 \begin{array}{lcl}
 G_k(y_k)&=&P[Y_k\leq y_k]\\
 &=&P[K>=k]\\
