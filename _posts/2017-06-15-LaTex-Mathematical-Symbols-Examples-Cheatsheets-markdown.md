@@ -21,7 +21,7 @@ $$\frac{\sqrt{abc}}{\sqrt[3]{xyz}}\cdot\max(x)\times|y|\div{\|\bar{x}\|}\approx\
 
 ```
 $$\frac{\sqrt{abc}}{\sqrt[3]{xyz}}+\max(x)\times
-|y|\div{\|\bar{x}\|}}\approx\theta \cup \alpha \cap 
+|y|\div{\|\bar{x}\|}}\approx\theta \cup \alpha \cap
 \beta \oplus \lambda$$
 ```
 $$\pi, \chi, \epsilon, \eta, \gamma,\phi, \psi$$
@@ -86,7 +86,7 @@ $$\frac{\partial}{\partial{x}}f(x,y)$$
 #### Sets
 $$\cup \cap \setminus \subset \subseteq \subsetneq \supset \in \notin \emptyset \varnothing$$
 ```
-$$\cup \cap \setminus \subset \subseteq \subsetneq 
+$$\cup \cap \setminus \subset \subseteq \subsetneq
 \supset \in \notin \emptyset \varnothing$$
 ```
 $${n+1 \choose 2k}$$
@@ -104,8 +104,23 @@ $$f(x) = \sum_{i=0}^n x^{i} + \prod_{i=0}^n x^{i}$$
 #### Matrix & vectors
 $$\left( \begin{array}{cc} 2\vec{\tau} & 7\phi-\frac{5}{12} \\3\psi & \frac{\pi}8 \end{array} \right)$$
 ```
-$$\left( \begin{array}{cc} 2\vec{\tau} & 7\phi-\frac{5}{12} 
+$$\left( \begin{array}{cc} 2\vec{\tau} & 7\phi-\frac{5}{12}
 \\3\psi & \frac{\pi}8 \end{array} \right)$$
+```
+
+$$\[ \begin{array}{lcr}
+\mbox{First number} & x & 8 \\
+\mbox{Second number} & y & 15 \\
+\mbox{Sum} & x + y & 23 \\
+\mbox{Difference} & x - y & -7 \\
+\mbox{Product} & xy & 120 \end{array}\] $$
+```
+\[ \begin{array}{lcr}
+\mbox{First number} & x & 8 \\
+\mbox{Second number} & y & 15 \\
+\mbox{Sum} & x + y & 23 \\
+\mbox{Difference} & x - y & -7 \\
+\mbox{Product} & xy & 120 \end{array}\]
 ```
 
 All the examples from the above are summarized from the following resources:
