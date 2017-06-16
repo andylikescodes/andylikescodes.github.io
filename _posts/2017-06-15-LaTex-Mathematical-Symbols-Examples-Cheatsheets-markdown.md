@@ -115,12 +115,12 @@ $$\left[ \begin{array}{lcr}
 \mbox{Difference} & x - y & -7 \\
 \mbox{Product} & xy & 120 \end{array}\right] $$
 ```
-\[ \begin{array}{lcr}
+$$\left[ \begin{array}{lcr}
 \mbox{First number} & x & 8 \\
 \mbox{Second number} & y & 15 \\
 \mbox{Sum} & x + y & 23 \\
 \mbox{Difference} & x - y & -7 \\
-\mbox{Product} & xy & 120 \end{array}\]
+\mbox{Product} & xy & 120 \end{array}\right] $$
 ```
 
 All the examples from the above are summarized from the following resources:
