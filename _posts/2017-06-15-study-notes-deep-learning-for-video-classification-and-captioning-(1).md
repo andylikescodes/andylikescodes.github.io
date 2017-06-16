@@ -2,7 +2,7 @@
 layout: post
 title: Study Notes - Deep Learning for Video Classification and Captioning (1)
 tag: [deep learning, computer vision]
-category: Study Notes
+category: Deep Learning
 ---
 
 This blog post is a study note for the paper [Deep Learning for Video Classification and Captioning](https://arxiv.org/abs/1609.06782) published by Zuxuan Wu, Ting Yao, Yuanwei Fu, and Yu-Guang Jiang in 2016.
