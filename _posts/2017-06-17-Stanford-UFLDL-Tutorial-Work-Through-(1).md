@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Stanford UFLDL Tutorial Work Through (1) - Linear Regression
 tag: [Deep Learning, Probability]
@@ -9,7 +9,7 @@ Link to the tutorial: [Unsupervised Feature Learning and Deep Learning: Linear R
 
 ## Problem
 
-Suppose we have a dataset with $$m$$ records , $$n$$ input variables and $$1$$ output variable. 
+Suppose we have a dataset with $$m$$ records , $$n$$ input variables and $$1$$ output variable.
 
 We can contained all the inputs in a matrix with dimension $$m\times n$$. Then we add a dummy column with all ones to the input matrix and get the following matrix with dimension $$m\times (n+1)$$:
 
@@ -30,7 +30,7 @@ x^{(m)}
 X_0&X_1&...&X_n\\
 \vdots&\vdots&...&\vdots
 \end{array}
-\right)$$ 
+\right)$$
 
 
 Here is the $$m \times 1$$ output variable vector $$Y$$:
@@ -82,9 +82,3 @@ We then randomly initialize the $$\Theta$$ and iteratively look for the local mi
 ## Exercise 1 Solution
 
 Please see this [github repo](https://github.com/andylikescodes/Stanford_UFLDL_Tutorial_Solutions) for the solution to exercise 1.
- 
-
-
-
-
-
