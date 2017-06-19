@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stanford UFLDL Tutorial Work Through (2) - Logistic Regression
-tag: [Deep Learning, Probability]
+tag: [Deep Learning]
 category: Deep Learning
 ---
 

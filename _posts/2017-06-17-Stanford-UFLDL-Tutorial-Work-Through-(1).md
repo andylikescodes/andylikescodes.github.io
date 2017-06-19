@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stanford UFLDL Tutorial Work Through (1) - Linear Regression
-tag: [Deep Learning, Probability]
+tag: [Deep Learning]
 category: Deep Learning
 ---
 

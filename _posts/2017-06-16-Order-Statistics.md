@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Order Statistics
-tag: [Statistics, Probability]
-category: Probability Theory and Statistics
+tag: [Statistics, Math]
+category: Statistics
 ---
 
 Order statistic is interesting because it is a little bit different from the often seen probability distributions. The nature of the order statistics allows us to design sampling methods that save us money and time. In certain experiments when there are strict constrains on measurements of samples or the number of samples we can take, order statistic can sometimes help us identify the best model using limited information.
