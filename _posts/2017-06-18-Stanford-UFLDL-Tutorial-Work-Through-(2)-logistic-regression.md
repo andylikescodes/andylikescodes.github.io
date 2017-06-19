@@ -21,11 +21,10 @@ $$S(z)=\frac{1}{1+e^{-z}}$$
 
 The sigmoid function has the following properties:
 
-1. It is a "S" shape function bounded between 0 and 1. This is usefully because in the process of generating a binary output from $$H_{\Theta}(X)$$, the sigmoid function is used to convert the output of a linear function, say $$Z = X\Theta$$, into a probability that is used in calculate the cost. Please find the the graph of the sigmoid function below:
+- It is a "S" shape function bounded between 0 and 1. This is usefully because in the process of generating a binary output from $$H_{\Theta}(X)$$, the sigmoid function is used to convert the output of a linear function, say $$Z = X\Theta$$, into a probability that is used in calculate the cost. Please find the the graph of the sigmoid function below:
 
 ![sigmoid](/public/img/blog_imgs/sigmoid.png)
-
-2. The derivative of the sigmoid function has a very nice form that makes logistic regression a very clean linear method. The derivative is given in the following:
+- The derivative of the sigmoid function has a very nice form that makes logistic regression a very clean linear method. The derivative is given in the following:
 
 $$\begin{array}{ccl}
 S'(z)&=&\frac{d}{dz}\frac{1}{1+e^{-z}}\\
