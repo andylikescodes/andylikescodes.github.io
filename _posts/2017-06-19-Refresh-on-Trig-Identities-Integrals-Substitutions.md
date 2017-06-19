@@ -5,11 +5,11 @@ tag: [Math, Calculus]
 category: Calculus
 ---
 
-Link to the lecture: [Lec 27 | MIT 18.01 Single Variable Calculus, Fall 2007](https://www.youtube.com/watch?v=Bv9kVDcj7yo&index=24&list=PL590CCC2BC5AF3BC1)
+Link to the lecture: [Lec 27 MIT 18.01 Single Variable Calculus, Fall 2007](https://www.youtube.com/watch?v=Bv9kVDcj7yo&index=24&list=PL590CCC2BC5AF3BC1)
 
 ## Trig Identities
 
-Suppose we have a circle with radius 1 centered at the origin $$(0,0)$$. If we connect a point on the circle and the origin and form an angle $$\theta$$ with the $$x_$$ axis, we have $$\sin^2(\theta)+\cos^2(\theta)=1$$.
+Suppose we have a circle with radius 1 centered at the origin $$(0,0)$$. If we connect a point on the circle and the origin and form an angle $$\theta$$ with the $$x$$ axis, we have $$\sin^2(\theta)+\cos^2(\theta)=1$$.
 
 So then we have the double and half angle formulas:
 
