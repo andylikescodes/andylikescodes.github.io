@@ -5,7 +5,7 @@ tag: [Deep Learning, Probability]
 category: Deep Learning
 ---
 
-Link to the tutorial: [Unsupervised Feature Learning and Deep Learning: Linear Regression](http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/)
+Link to the tutorial: [Unsupervised Feature Learning and Deep Learning: Logistic Regression](http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/)
 
 ## Problem
 
