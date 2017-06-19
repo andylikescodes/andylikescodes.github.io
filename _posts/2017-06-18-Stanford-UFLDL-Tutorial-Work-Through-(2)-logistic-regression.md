@@ -23,7 +23,7 @@ The sigmoid function has the following properties:
 
 1. It is a "S" shape function bounded between 0 and 1. This is usefully because in the process of generating a binary output from $$H_{\Theta}(X)$$, the sigmoid function is used to convert the output of a linear function, say $$Z = X\Theta$$, into a probability that is used in calculate the cost. Please find the the graph of the sigmoid function below:
 
-![sigmoid](\public\img\blog_imgs\sigmoid.png)
+![sigmoid](/public/img/blog_imgs/sigmoid.png)
 
 2. The derivative of the sigmoid function has a very nice form that makes logistic regression a very clean linear method. The derivative is given in the following:
 
@@ -44,7 +44,7 @@ P(y=1|x^{(i)})=h_{\Theta}(x^{(i)})=S(x^{(i)}\Theta)=\frac{1}{1+e^{-x^{(i)}\Theta
 P(y=0|x^{(i)})=1-P(y=1|x^{(i)})=1-h_{\Theta}(x^{(i)})
 \end{array}$$
 
-Our goal is to find a vector $$\Theta$$ that makes $$P(y=1|x^{(i)})$$ is large when $$x^{(i)}$$ belongs to class 1 and small when $$x^{(i)}$$ belongs to class 0.
+Our goal is to find a vector $\Theta$ that makes $P(y=1|x^{(i)})$ large when $x^{(i)}$ belongs to class 1 and small when $x^{(i)}$ belongs to class 0.
 
 Note that the above two probability expressions can be combined into one:
 
