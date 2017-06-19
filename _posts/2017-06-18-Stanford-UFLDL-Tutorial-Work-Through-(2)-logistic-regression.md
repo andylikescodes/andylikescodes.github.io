@@ -41,10 +41,7 @@ Now we can define the following two functions to calculate the probabilities an 
 
 $$\begin{array}{l}
 P(y=1|x^{(i)})=h_{\Theta}(x^{(i)})=S(x^{(i)}\Theta)=\frac{1}{1+e^{-x^{(i)}\Theta}}\\
-P(y=0|x^{(i)})=1-P(y=1|x^{(i)})=1-h_{\Theta}(x^{(i)})
-\end{array}$$
-
-Our goal is to find a vector $\Theta$ that makes $P(y=1|x^{(i)})$ large when $x^{(i)}$ belongs to class 1 and small when $x^{(i)}$ belongs to class 0.
+P(y=0|x^{(i)})=1-P(y=1|x^{(i)})=1-h_{\Theta}(x^{(i)})\end{array}$$
 
 Note that the above two probability expressions can be combined into one:
 
@@ -75,10 +72,10 @@ $$\begin{array}{ccl}
 Therefore, the gradient of the log likelihood function is:
 
 $$\nabla \ell_{\Theta}(\Theta)=\left( \begin{array}{c}
-\frac{\partial {J(\Theta)}}{\partial\theta_0}\\
-\frac{\partial {J(\Theta)}}{\partial\theta_1}\\
+\frac{\partial {\ell(\Theta)}}{\partial\theta_0}\\
+\frac{\partial {\ell(\Theta)}}{\partial\theta_1}\\
 \vdots\\
-\frac{\partial {J(\Theta)}}{\partial\theta_n}
+\frac{\partial {\ell(\Theta)}}{\partial\theta_n}
 \end{array}
 \right)=X(Y-H_{\Theta}(X))$$
 
