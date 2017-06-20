@@ -74,4 +74,4 @@ function average_error = grad_check(fun, theta0, num_checks, varargin)
 
 This implementation randomly choose the gradients to check and average the error between the approximated ones and the ones calculated by using gradient descent.
 
-The number of gradients to check is specified in the parameter `num_checks`, and we can see that a piece of code `j = randsample(numel(T),1)` is used to randomly generate the index of the gradients array. By doing this we can control the run time of the gradient check function because we don't want to check all the gradients in every iteration, which will make the program run significantly slower.
+The number of gradients to check is specified in the parameter `num_checks`, and we can see that a piece of code `j = randsample(numel(T),1)` is used to randomly generate the index of the gradients array. By doing this the run time of the gradient check function can be control easily. The program will run significantly slower if all the gradients are check in every iterations.
