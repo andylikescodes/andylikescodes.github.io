@@ -148,9 +148,9 @@ $$\begin{array}{ccl}
 
 **rule 3**, substitute the following square roots using trigs:
 
-$$\begin{array}{ccl}\sqrt{a^2-x^2}&\to&x=a\sin(x)/a\cos(x)\\
-\sqrt{a^2+x^2}&\to&x=a\tan(x)\\
-\sqrt{x^2-a^2}&\to&x=a\sec(x)
+$$\begin{array}{ccl}\sqrt{a^2-x^2}&\to&x=a\sin(\theta)/a\cos(\theta)\\
+\sqrt{a^2+x^2}&\to&x=a\tan(\theta)\\
+\sqrt{x^2-a^2}&\to&x=a\sec(\theta)
 \end{array}$$
 
 These substitutions can be derived using a right triangle by assigning the 1 and x to the hpp, opp and adj.
