@@ -78,9 +78,9 @@ $$\nabla J_{\Theta}(\Theta) = -X^T[Y-H_{\Theta}(X)]^T=
 |&|&|&|
 \end{array}\right)$$
 
-$$H_{\Theta}(X)$$ is a matrix with each column corresponding to the output of each record, $$h_{\Theta}(x^{(i)})$$.
+$$H_{\Theta}(X)$$ is a matrix with each column corresponding to the softmax function output of each record, $$h_{\Theta}(x^{(i)})$$.
 
-Then we update $$\Theta$$ with $$\Theta:=\alpha\nabla J_{\Theta}(\Theta)$$ to achieve the local minimum of the cost function $$J(\Theta)$$.
+Then we update $$\Theta$$ with $$\Theta:=\alpha\nabla J_{\Theta}(\Theta)$$ in each iteration to achieve the local minimum of the cost function $$J(\Theta)$$.
 
 ## Properties of softmax regression parameterization
 
