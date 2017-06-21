@@ -21,10 +21,10 @@ P(y_i=2|x^{(i)},\Theta^{(2)})\\
 \vdots\\
 P(y_i=k|x^{(i)},\Theta^{(k)})
 \end{array}\right]=\frac{1}{\sum_{j=1}^k\exp{(-x^{(i)}\Theta^{(k)})}}\left[
-\begin{array}{c}\exp{(-x^{(i)}\Theta^{(1)})\\
-\exp{(-x^{(i)}\Theta^{(2)})\\
+\begin{array}{c}\exp{(-x^{(i)}\Theta^{(1)})}\\
+\exp{(-x^{(i)}\Theta^{(2)})}\\
 \vdots\\
-\exp{(-x^{(i)}\Theta^{(k)})
+\exp{(-x^{(i)}\Theta^{(k)})}
 \end{array}
 \right]$$
 
@@ -32,7 +32,7 @@ where
 
 $$\Theta = \left(\begin{array}{cccc}
 |&|&|&|\\
-\Theta^{(1)}&\Theta^{(2)}&\dots&\Theta^{(k)}\\
+\Theta^{(1)} & \Theta^{(2)} & \dots &\Theta^{(k)}\\
 |&|&|&|
 \end{array}\right)$$
 
@@ -42,13 +42,13 @@ $$\ell(\Theta) = \sum_{i=1}^{m}\sum_{k=1}^{K}1\{y_i=k\}log\frac{\exp(x^{(i)}\The
 
 Note that $$1\{\}$$ is an indicator function so that $$1\{true\} = 1,1\{false\}=0$$.
 
-Let $$P(y_i=k|x^{(i)},\Theta)=\frac{\exp(x^{(i)}\Theta^{(k)})}{\sum_{k=1}^{K}\exp(x^{(i)}\Theta^{(k)})}$$the cost function is defined as:
+Let $$P(y_i=k \vert x^{(i)},\Theta)=\frac{\exp(x^{(i)}\Theta^{(k)})}{\sum_{k=1}^{K}\exp(x^{(i)}\Theta^{(k)})}$$the cost function is defined as:
 
 $$J(\Theta) = - \left[\sum_{i=1}^{m}\sum_{k=1}^{K}1\{y_i=k\}logP(y_i=k|x^{(i)},\Theta)\right]$$
 
 Taking the derivatives, we get:
 
-$$\nabla J_{\Theta^{(k)}}(\Theta) = -\sum_{i=1}^m[x^{(i)}(1\{y_i=k\}-P(y_i=k|x^{(i)},\Theta)})]$$
+$$\nabla J_{\Theta^{(k)}}(\Theta) = -\sum_{i=1}^m[x^{(i)}(1\{y_i=k\}-P(y_i=k|x^{(i)},\Theta))]$$
 
 In order to vectorize the gradient calculation, we define a output vector for each $$y_i$$:
 
@@ -100,13 +100,13 @@ If we set $$\psi=\Theta^{(k)}$$, then we have $$\Theta^{(k)}:=\Theta^{(k)}-\psi=
 In a 2 class softmax regression case, we get the following:
 
 $$\begin{array}{ccl}h_{\Theta}(x^{(i)})&=&\frac{1}{\exp{(-x^{(i)}\Theta^{(1)})}+\exp{(-x^{(i)}\Theta^{(2)})}}\cdot\left[
-\begin{array}{c}\exp{(-x^{(i)}\Theta^{(1)})\\
-\exp{(-x^{(i)}\Theta^{(2)})
+\begin{array}{c}\exp{(-x^{(i)}\Theta^{(1)})}\\
+\exp{(-x^{(i)}\Theta^{(2)})}
 \end{array}
 \right]\\
 &=&\frac{1}{\exp{(-x^{(i)}(\Theta^{(1)}-\Theta^{(2)}))}+\exp{(-x^{(i)}\vec0)}}\cdot\left[
-\begin{array}{c}\exp{(-x^{(i)}(\Theta^{(1)}-\Theta^{(2)}))\\
-\exp{(-x^{(i)}\vec0)
+\begin{array}{c}\exp{(-x^{(i)}(\Theta^{(1)}-\Theta^{(2)}))}\\
+\exp{(-x^{(i)}\vec0)}
 \end{array}
 \right]\\
 \end{array}$$
