@@ -121,7 +121,7 @@ $$\begin{array}{cl}\frac{d}{dx}\tan(x)=\sec^2(x)&\frac{d}{dx}\sec(x)=\sec(x)\tan
 \int\tan(x)dx=-\ln\vert\cos(x)\vert+c&\int\sec(x)dx = \ln(\sec(x)+\tan(x))+c
 \end{array}$$
 
-**Example**:
+**Example 1**:
 
 using $$u=tan(x),du=\sec^2(x)dx$$
 
@@ -131,3 +131,26 @@ $$\begin{array}{ccl}
 &=&u+\frac{u^3}{3}+c\\
 &=&\tan(x)+\frac{\tan^3(x)}{3}+c
 \end{array}$$
+
+**Example 2**:
+
+using $$x=tan(\theta),dx=\sec^2(\theta)d\theta,u=\sin(\theta),du=\cos(\theta)d\theta$$
+
+$$\begin{array}{ccl}
+\int\frac{dx}{x^2\sqrt{1+x^2}}&=&\int\frac{\sec^2(\theta)d\theta}{\tan^2(x)\sec(\theta)}\\
+&=&\int\frac{\cos{\theta}}{\sin^2(\theta)}d\theta\\
+&=&\int\frac{du}{u^2}\\
+&=&-\frac{1}{u}+c\\
+&=&-\frac{1}{\sin(\theta)}+c\\
+&=&-\csc(\theta)+c\\
+&=&-\csc(\arctan(x))+c
+\end{array}$$
+
+**rule 3**, substitute the following square roots using trigs:
+
+$$\begin{array}{ccl}\sqrt{a^2-x^2}&\to&x=a\sin(x)/a\cos(x)\\
+\sqrt{a^2+x^2}&\to&x=a\tan(x)\\
+\sqrt{x^2-a^2}&\to&x=a\sec(x)
+\end{array}$$
+
+These substitutions can be derived using a right triangle by assigning the 1 and x to the hpp, opp and adj.
