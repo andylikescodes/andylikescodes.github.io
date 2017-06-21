@@ -108,3 +108,26 @@ $$\begin{array}{ccl}
 \end{array}$$
 
 It becomes something easier to solve.
+
+## Other Trig Identities and Integration
+
+$$\begin{array}{cl}\sec(x)=\frac{1}{\cos(x)}&\csc=\frac{1}{\sin(x)}\\
+\tan(x)=\frac{\sin(x)}{\cos(x)}&\cot(x) = \frac{\cos(x)}{\sin(x)}
+\end{array}$$
+
+$$\sec^2(x) = 1+\tan^2(x)$$
+
+$$\begin{array}{cl}\frac{d}{dx}\tan(x)=\sec^2(x)&\frac{d}{dx}\sec(x)=\sec(x)\tan(x)\\
+\int\tan(x)dx=-\ln\vert\cos(x)\vert+c&\int\sec(x)dx = \ln(\sec(x)+\tan(x))+c
+\end{array}$$
+
+**Example**:
+
+using $$u=tan(x),du=\sec^2(x)dx$$
+
+$$\begin{array}{ccl}
+\int\sec^4(x)dx&=&\int(1+\tan^2(x))\sec^2(x)dx\\
+&=&\int(1+u^2)du\\
+&=&u+\frac{u^3}{3}+c\\
+&=&\tan(x)+\frac{\tan^3(x)}{3}+c
+\end{array}$$
