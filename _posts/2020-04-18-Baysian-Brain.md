@@ -16,10 +16,10 @@ To justify this point, the paper talks about the noise and ambiguity of sensory 
 (To be continue)
 
 ### Reference
-[Colombo, M., Seriès, P., 2012. Bayes in the Brain—On Bayesian Modelling in Neuroscience. Br. J. Philos. Sci. 63, 697–723. https://doi.org/10.1093/bjps/axr043](https://www.zotero.org/google-docs/?gGyNfB)
+> [Colombo, M., Seriès, P., 2012. Bayes in the Brain—On Bayesian Modelling in Neuroscience. Br. J. Philos. Sci. 63, 697–723. https://doi.org/10.1093/bjps/axr043](https://www.zotero.org/google-docs/?gGyNfB)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5MTUzNzA4LC0xODg4NzM3Mzc4LC03OT
-E2MDcxNDFdfQ==
+eyJoaXN0b3J5IjpbMjEzNzgyNjQ0NiwtMTg4ODczNzM3OCwtNz
+kxNjA3MTQxXX0=
 -->
