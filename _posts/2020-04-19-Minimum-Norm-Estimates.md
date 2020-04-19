@@ -1,11 +1,7 @@
-  
-2020-04-18-Baysian-Brain
-
 ---  
-
 layout: post  
-title: The Baysian Brain  
-tag: [Brain]  
+title: Interpreting Magnetic Fields of the Brain: Minimum Norm Estimates
+tag: [Paper Review]  
 category: Brain  
 ---  
   
@@ -61,5 +57,5 @@ HTML 1013  characters 183  words 12  paragraphs
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjY0NjU0OTBdfQ==
+eyJoaXN0b3J5IjpbLTE4NzY3OTk3ODNdfQ==
 -->
