@@ -5,10 +5,10 @@ tag: [Paper Review]
 category: Brain  
 ---  
   
-## How much Bayes is it in our brain?  
+##   
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTA0MTI5NV19
+eyJoaXN0b3J5IjpbLTE4MDI0Mjc1MzksMTYxOTA0MTI5NV19
 -->
