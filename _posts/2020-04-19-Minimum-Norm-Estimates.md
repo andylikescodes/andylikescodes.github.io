@@ -19,15 +19,15 @@ The MNE method gives the best estimate for the current when minimal a priori inf
 
 The equation shows that there are infinite solutions to the lead field; “any primary-current distribution (together with volume currents) to which the measuring instrument is not sensitive may be added to the solution.” Regularization also applied to improve stability.
 
-![Image](https://photos.app.goo.gl/zyu9fs7cxRLkLhfx5)
+![enter image description here](https://lh3.googleusercontent.com/en4bn7B1U70bjzY4jrkXdUrvY0WOikGDYsaM02GKrYCWg1aVaE9swr8c0gCyLPpigDXwrfmB494cGDHc2on9bogfrrvF7mrK7OuZdeLoXRL36iGSTXLodKqEcT_YkuT--AqwlsiMTBlINE4XKUYCEfTjR0iRsvK8YvOtadFRzUWRi4qOhMe3NRvVcU18eAu4GQir9pJd1ZwV6k39quPDc1mqyG4uKUXkemn_YdOy_tHC_8IJuQ3QSBx6hthUPOB_iVeMDpSrK7Jyn1xehblu5mBL9nIIuWnvH64vKnupKHSA5ZGu-_9rC3D8eoBW8tBY9GdG_RaETbTaUs9kL0U33WGvnSc0EgO-FbsveNvLmD1qJGwRTyydwGJ0o-e25Yf3hrs6XNfvjQGqbnnoM7Y-Kc5flb-aJ8fMs2g06of3jB4iEDEfLo8bRDeJCnDWMe1wN31uptRFPJcSe7wIY4RGLQl5qf7w7Tw1Ytr4o7QDExdGZB2Qnml-zTVA121ADYvlJzW-HjUSKJQYSN_OS0R89PPAFbLUv63k54uFTCQn7BRWMhsA-p4a7xSDwKOeOFecJDL4e6qp_CDbDiIlD9_8l49AjYBFC0qZkN8JDocZF_huqfLDfQf0C9Q139OHA3H4bdOEs5EsjCWzry3_vt9qB2UVLpKeEgOMtNs8FCYzi99GdYZxQeYGBSZfPSLw=w942-h1660-no)
 
 The estimation of the primary-current distribution has direction and magnitude, as shown in the above image.
 
 (Question remains to be answered) What still unclear to me is whether dipoles are different from the primary current distribution. My guess is that the later is what we really want to estimate, and using the single dipole assumption as the constrain to find a single solution.
 
-
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3MDE4NTA4LDEwNDQ0ODg5ODEsMzA4MT
-QyODk0LC0xODAyNDI3NTM5LDE2MTkwNDEyOTVdfQ==
+eyJoaXN0b3J5IjpbNzYzOTgzNzIyLDM2NzAxODUwOCwxMDQ0ND
+g4OTgxLDMwODE0Mjg5NCwtMTgwMjQyNzUzOSwxNjE5MDQxMjk1
+XX0=
 -->
