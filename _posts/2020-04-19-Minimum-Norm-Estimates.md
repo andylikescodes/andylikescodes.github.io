@@ -24,9 +24,18 @@ The estimation of the primary-current distribution has direction and magnitude, 
 
 (Question remains to be answered) What still unclear to me is whether dipoles are different from the primary current distribution. My guess is that the later is what we really want to estimate, and using the single dipole assumption as the constrain to find a single solution.
 
+### Term Definition
+
+Current Dipole: “The electrical current dipole can be thought of as an infinitesimally short length of wire which carries a current. The strength of the source is defined by its dipole moment (p).” [(“Defining the Electrical Current Dipole — Electromagnetic Geophysics,” n.d.)](https://www.zotero.org/google-docs/?cRwnor)
+
+Lead Field: “The lead field is a vector field that describes the sensitivity pattern of a magnetometer to the primary current” [(Hämäläinen and Ilmoniemi, 1994)](https://www.zotero.org/google-docs/?HDB2Bl)
+
+Position Vector: A vector that starts from the origin (O) is called a position vector [(“Position Vector (solutions, examples, videos),” n.d.)](https://www.zotero.org/google-docs/?L3F8dd).
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDkzMTc5MywtMjA5NzM4NTUzOCw3Nj
+eyJoaXN0b3J5IjpbMTY4OTcyOTAwNiwtMjA5NzM4NTUzOCw3Nj
 M5ODM3MjIsMzY3MDE4NTA4LDEwNDQ0ODg5ODEsMzA4MTQyODk0
 LC0xODAyNDI3NTM5LDE2MTkwNDEyOTVdfQ==
 -->
