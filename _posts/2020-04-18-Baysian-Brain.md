@@ -18,6 +18,7 @@ To justify this point, the paper talks about the noise and ambiguity of sensory 
 The paper addresses two questions:
 
 > (1) How are Bayesian models used in theoretical neuroscience.
+> 
 > (2) From the use of Bayesian models in theoretical neuroscience, have we learned, or can we hope to learn, that perception is Bayesian inference or that the brain is a Bayesian machine?
 
 An important thing about the two questions is that, as Colombo and Series mentioned in the paper:
@@ -27,8 +28,11 @@ An important thing about the two questions is that, as Colombo and Series mentio
 We need to be careful in the sense that what we are discussing here is not in an instrumentalist point of view towards Bayesian modeling. We are trying to look at it from a theoretical neuroscience perspective - the ‘fundamental implication for neuroscience’:
 
 > … the Bayesian coding hypothesis: ‘the brain represents information probabilistically, by coding and computing with probability density functions or approximations to probability density functions’
+> 
 > The hypothesis is tow-fold:
+> 
 > (1) The brain performs Bayesian inference to enable us to make judgments and guide action in the world
+> 
 > (2) The brain represents sensory information in the form of probability distributions.
 
 The paper demonstrates an experiment that fits a Bayesian model to predict the stimuli with both haptic and visual information and compare it with fitting the model separately for each sensory input. The result shows that the behavioral result is accurately predicted by the models, indicating that “Humans integrate visual and haptic information in a statistically optimal fashion”.
@@ -40,7 +44,7 @@ Though, it is worth noticing that even if the model is able to compute the belie
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDUyMjkwMCwtMTg1NzU5ODA3MCwtMT
+eyJoaXN0b3J5IjpbMTYxNTU2MDY2MCwtMTg1NzU5ODA3MCwtMT
 kwMjE2MDQ4LC0xNDMxMjI5NTU0LC0xODg4NzM3Mzc4LC03OTE2
 MDcxNDFdfQ==
 -->
