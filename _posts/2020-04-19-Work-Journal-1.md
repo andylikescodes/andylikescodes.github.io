@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: Minimum Norm Estimates
+title: Work Journal 1
 tag: [Journal]
 category: Work Journal
 ---
@@ -19,5 +19,5 @@ These things are difficult, but I guess for me having a challenging/exciting lif
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTY5MzA1MF19
+eyJoaXN0b3J5IjpbNjgwOTU1ODAyLDE2Mjk2OTMwNTBdfQ==
 -->
