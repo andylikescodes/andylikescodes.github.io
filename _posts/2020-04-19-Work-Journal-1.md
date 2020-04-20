@@ -15,9 +15,9 @@ At night before bed need to try to finish reading the Baysian blog post; I guess
 
 Bayesian stuff is cool, will this be my entire life pursuit? Will this become the ultimate solution of modeling the brain? Probably not, but for me to get started with research in my early career, it is interesting enough to keep me excited everyday.
 
-These things are difficult, but I guess for me having a challenging/exciting life is what I want. That's why I choose this path. Money is important, however, it is getting less and less important for me because I can probably survive with simple food and life style, but it is too boring I can't 
+These things are difficult, but I guess for me having a challenging/exciting life is what I want. That's why I choose this path. Money is important, however, it is getting less and less important for me because I can probably survive with simple food and life style, but it is too boring I can't live. I guess this is a curse but at the same time a blessing.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDUwNDUyM119
+eyJoaXN0b3J5IjpbMTYyOTY5MzA1MF19
 -->
