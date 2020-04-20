@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minimum Norm Estimates
-tag: [Brain]
+tag: [Paper Review]
 category: Brain
 ---
 
@@ -35,7 +35,7 @@ The estimation of the primary-current distribution has direction and magnitude, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzNzkxMDIzLC0yMDk3Mzg1NTM4LDc2Mz
-k4MzcyMiwzNjcwMTg1MDgsMTA0NDQ4ODk4MSwzMDgxNDI4OTQs
-LTE4MDI0Mjc1MzksMTYxOTA0MTI5NV19
+eyJoaXN0b3J5IjpbLTI5NDUxMTEyOSwtMjA5NzM4NTUzOCw3Nj
+M5ODM3MjIsMzY3MDE4NTA4LDEwNDQ0ODg5ODEsMzA4MTQyODk0
+LC0xODAyNDI3NTM5LDE2MTkwNDEyOTVdfQ==
 -->
