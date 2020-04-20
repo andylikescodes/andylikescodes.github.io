@@ -14,7 +14,7 @@ The interesting question is how we are able to get to the source space from the 
 
 One potential method is to regularize or constrain the current distribution under some particular assumptions, such as limiting the source current in a small area (single dipole model) and in several sites (multi-dipole models). If these assumptions are not met, the result of the source current distribution might be incorrect.
 
-The MNE method gives the best estimate for the current when minimal a priori information about the source is available. The mathematical details of how the final current distribution is derived are too complicated for me to understand no, but the main idea is to mathematically construct an equation between the magnetometer and primary-current distribution. To recover the primary-current distribution, one needs to find the lead field, which describes the sensitivity distribution of the magnetometers. The lead field depends on the conductivity, which is determined by the head model (spherically symmetric or horizontally layered conductor).
+The MNE method gives the best estimate for the current when minimal a priori information about the source is available. The mathematical details of how the final current distribution is derived are too complicated for me to understand at this point, but the main idea is to mathematically construct an equation between the magnetometer and primary-current distribution. To recover the primary-current distribution, one needs to find the lead field, which describes the sensitivity distribution of the magnetometers. The lead field depends on the conductivity, which is determined by the head model (spherically symmetric or horizontally layered conductor).
 
 The equation shows that there are infinite solutions to the lead field; “any primary-current distribution (together with volume currents) to which the measuring instrument is not sensitive may be added to the solution.” Regularization also applied to improve stability.
 
@@ -41,7 +41,8 @@ The estimation of the primary-current distribution has direction and magnitude, 
 >
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxODk3MjQzLDIwOTU0Njc0ODQsLTIwOT
-czODU1MzgsNzYzOTgzNzIyLDM2NzAxODUwOCwxMDQ0NDg4OTgx
-LDMwODE0Mjg5NCwtMTgwMjQyNzUzOSwxNjE5MDQxMjk1XX0=
+eyJoaXN0b3J5IjpbMTM1OTQ0NDc4NywzOTE4OTcyNDMsMjA5NT
+Q2NzQ4NCwtMjA5NzM4NTUzOCw3NjM5ODM3MjIsMzY3MDE4NTA4
+LDEwNDQ0ODg5ODEsMzA4MTQyODk0LC0xODAyNDI3NTM5LDE2MT
+kwNDEyOTVdfQ==
 -->
