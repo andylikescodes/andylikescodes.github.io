@@ -6,8 +6,7 @@ category: Brain
 ---
 
 This post is a summary of the paper: Interpreting magnetic fields of the brain: minimum norm estimates [(Hämäläinen and Ilmoniemi, 1994)](https://www.zotero.org/google-docs/?jt8HpZ).
-### Minimum Norm Estimates (MNE): One Way of Getting to the Source
-# Getting to the Source
+### Minimum Norm Estimates (MNE): One Way of Getting to the Source Getting to the Source
 
 To work on the source space of MEG data, it is required that we have a good understanding of how source models work and how the signal in the sensor space is projected onto the source space. One of the basic algorithms for solving this inverse problem is Minimum Norm Estimates (MNE) [(Hämäläinen and Ilmoniemi, 1994)](https://www.zotero.org/google-docs/?1psagd).
 
@@ -27,7 +26,7 @@ The estimation of the primary-current distribution has direction and magnitude, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5ODI3ODE0LC0yMDk3Mzg1NTM4LDc2Mz
-k4MzcyMiwzNjcwMTg1MDgsMTA0NDQ4ODk4MSwzMDgxNDI4OTQs
-LTE4MDI0Mjc1MzksMTYxOTA0MTI5NV19
+eyJoaXN0b3J5IjpbMTUzNDkzMTc5MywtMjA5NzM4NTUzOCw3Nj
+M5ODM3MjIsMzY3MDE4NTA4LDEwNDQ0ODg5ODEsMzA4MTQyODk0
+LC0xODAyNDI3NTM5LDE2MTkwNDEyOTVdfQ==
 -->
