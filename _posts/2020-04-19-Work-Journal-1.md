@@ -13,7 +13,11 @@ In general, the things that I planned to do has done quite well. Had a great mee
 
 At night before bed need to try to finish reading the Baysian blog post; I guess I can break this down into 3 days. This is not an extream important paper, but it is something I am very interested in and will give me some insides of my potential research topics.
 
+Bayesian stuff is cool, will this be my entire life pursuit? Will this become the ultimate solution of modeling the brain? Probably not, but for me to get started with research in my early career, it is interesting enough to keep me excited everyday.
+
+These things are difficult,
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTg1ODM4OV19
+eyJoaXN0b3J5IjpbLTkyNzgzMDc1MF19
 -->
