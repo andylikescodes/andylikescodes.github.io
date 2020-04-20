@@ -9,9 +9,13 @@ category: Brain
 
 I am having this thought that the neural network in our brain might encode information using a Baysian framework. There is a paper [(Colombo and Seriès, 2012)](https://www.zotero.org/google-docs/?B67pov) talking about Bayesian modelling in neuroscience. Before writing my thoughts about this, it is important to see what has already been studied.
 
-“..., a growing trend in theoretical neuroscience considers that the human perceptual system is akin to a Bayesian machine. The function of this machine would be to infer the causes of sensory inputs in an ‘optimal’ way.”
+..., a growing trend in theoretical neuroscience considers that the human perceptual system is akin to a Bayesian machine. The function of this machine would be to infer the causes of sensory inputs in an ‘optimal’ way.”
 
 To justify this point, the paper talks about the noise and ambiguity of sensory inputs. Our perception requires some mechanism to represent and handle uncertainty. Therefore, our neural network (“nerve systems”) needs to encode probabilistic models through neural processing. The sensory input is used to update the neural encoded probabilistic (Bayesian) models.
+
+The paper addresses two questions:
+> (1) How are Bayesian models used in theoretical neuroscience.
+> (2) 
 
 (To be continue)
 
@@ -20,6 +24,6 @@ To justify this point, the paper talks about the noise and ambiguity of sensory 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDIxNjA0OCwtMTQzMTIyOTU1NCwtMT
-g4ODczNzM3OCwtNzkxNjA3MTQxXX0=
+eyJoaXN0b3J5IjpbLTExMDA3MTQ5NTAsLTE5MDIxNjA0OCwtMT
+QzMTIyOTU1NCwtMTg4ODczNzM3OCwtNzkxNjA3MTQxXX0=
 -->
