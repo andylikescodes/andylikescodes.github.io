@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Work Journal 1
@@ -20,5 +19,5 @@ These things are difficult, but I guess for me having a challenging/exciting lif
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzUzNjExMDgsMTYyOTY5MzA1MF19
+eyJoaXN0b3J5IjpbMTcxMzMyNDc4LDE2Mjk2OTMwNTBdfQ==
 -->
