@@ -24,7 +24,7 @@ The estimation of the primary-current distribution has direction and magnitude, 
 
 (Question remains to be answered) What still unclear to me is whether dipoles are different from the primary current distribution. My guess is that the later is what we really want to estimate, and using the single dipole assumption as the constrain to find a single solution.
 
-### Term Definition
+## Term Definition
 
 **Current Dipole**: “The electrical current dipole can be thought of as an infinitesimally short length of wire which carries a current. The strength of the source is defined by its dipole moment (p).” [(“Defining the Electrical Current Dipole — Electromagnetic Geophysics,” n.d.)](https://www.zotero.org/google-docs/?cRwnor)
 
@@ -41,7 +41,7 @@ The estimation of the primary-current distribution has direction and magnitude, 
 >
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDQ2NDM5MSwyMDk1NDY3NDg0LC0yMD
-k3Mzg1NTM4LDc2Mzk4MzcyMiwzNjcwMTg1MDgsMTA0NDQ4ODk4
-MSwzMDgxNDI4OTQsLTE4MDI0Mjc1MzksMTYxOTA0MTI5NV19
+eyJoaXN0b3J5IjpbODA5OTg3NTcyLDIwOTU0Njc0ODQsLTIwOT
+czODU1MzgsNzYzOTgzNzIyLDM2NzAxODUwOCwxMDQ0NDg4OTgx
+LDMwODE0Mjg5NCwtMTgwMjQyNzUzOSwxNjE5MDQxMjk1XX0=
 -->
