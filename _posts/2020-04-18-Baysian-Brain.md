@@ -5,7 +5,7 @@ tag: [Paper Review]
 category: Brain
 ---
 
-This blog is a review of a paper: Bayes in the Brain -- On Bayesian Modelling in Neuroscience 
+This blog is a review of a paper: Bayes in the Brain -- On Bayesian Modelling in Neuroscience [(Colombo and Seriès, 2012)](https://www.zotero.org/google-docs/?9xYREt)
 
 ## How much Bayes is it in our brain?
 
@@ -14,7 +14,6 @@ I am having this thought that the neural network in our brain might encode infor
 > ..., a growing trend in theoretical neuroscience considers that the human perceptual system is akin to a Bayesian machine. The function of this machine would be to infer the causes of sensory inputs in an ‘optimal’ way.
 
 To justify this point, the paper talks about the noise and ambiguity of sensory inputs. Our perception requires some mechanism to represent and handle uncertainty. Therefore, our neural network (“nerve systems”) needs to encode probabilistic models through neural processing. The sensory input is used to update the neural encoded probabilistic (Bayesian) models.
-
 
 The paper addresses two questions:
 
@@ -41,7 +40,7 @@ Though, it is worth noticing that even if the model is able to compute the belie
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3NjQwMzI5LC0xODU3NTk4MDcwLC0xOT
-AyMTYwNDgsLTE0MzEyMjk1NTQsLTE4ODg3MzczNzgsLTc5MTYw
-NzE0MV19
+eyJoaXN0b3J5IjpbLTU5MDUyMjkwMCwtMTg1NzU5ODA3MCwtMT
+kwMjE2MDQ4LC0xNDMxMjI5NTU0LC0xODg4NzM3Mzc4LC03OTE2
+MDcxNDFdfQ==
 -->
