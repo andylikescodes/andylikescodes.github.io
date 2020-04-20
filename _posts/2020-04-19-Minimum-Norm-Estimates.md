@@ -26,11 +26,11 @@ The estimation of the primary-current distribution has direction and magnitude, 
 
 ### Term Definition
 
-Current Dipole: “The electrical current dipole can be thought of as an infinitesimally short length of wire which carries a current. The strength of the source is defined by its dipole moment (p).” [(“Defining the Electrical Current Dipole — Electromagnetic Geophysics,” n.d.)](https://www.zotero.org/google-docs/?cRwnor)
+**Current Dipole**: “The electrical current dipole can be thought of as an infinitesimally short length of wire which carries a current. The strength of the source is defined by its dipole moment (p).” [(“Defining the Electrical Current Dipole — Electromagnetic Geophysics,” n.d.)](https://www.zotero.org/google-docs/?cRwnor)
 
-Lead Field: “The lead field is a vector field that describes the sensitivity pattern of a magnetometer to the primary current” [(Hämäläinen and Ilmoniemi, 1994)](https://www.zotero.org/google-docs/?HDB2Bl)
+**Lead Field**: “The lead field is a vector field that describes the sensitivity pattern of a magnetometer to the primary current” [(Hämäläinen and Ilmoniemi, 1994)](https://www.zotero.org/google-docs/?HDB2Bl)
 
-Position Vector: A vector that starts from the origin (O) is called a position vector [(“Position Vector (solutions, examples, videos),” n.d.)](https://www.zotero.org/google-docs/?L3F8dd).
+**Position Vector**: A vector that starts from the origin (O) is called a position vector [(“Position Vector (solutions, examples, videos),” n.d.)](https://www.zotero.org/google-docs/?L3F8dd).
 
 >### References:
 >[Defining the Electrical Current Dipole — Electromagnetic Geophysics [WWW Document], n.d. URL https://em.geosci.xyz/content/maxwell1_fundamentals/dipole_sources_in_homogeneous_media/electric_dipole_definition/index.html (accessed 4.19.20).](https://www.zotero.org/google-docs/?yfEVqZ)
@@ -41,7 +41,8 @@ Position Vector: A vector that starts from the origin (O) is called a position v
 >
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTQ2NzQ4NCwtMjA5NzM4NTUzOCw3Nj
-M5ODM3MjIsMzY3MDE4NTA4LDEwNDQ0ODg5ODEsMzA4MTQyODk0
-LC0xODAyNDI3NTM5LDE2MTkwNDEyOTVdfQ==
+eyJoaXN0b3J5IjpbLTE3Nzg3ODQ1NDgsMjA5NTQ2NzQ4NCwtMj
+A5NzM4NTUzOCw3NjM5ODM3MjIsMzY3MDE4NTA4LDEwNDQ0ODg5
+ODEsMzA4MTQyODk0LC0xODAyNDI3NTM5LDE2MTkwNDEyOTVdfQ
+==
 -->
