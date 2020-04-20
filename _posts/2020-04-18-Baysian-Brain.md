@@ -21,8 +21,6 @@ The paper addresses two questions:
 > (1) How are Bayesian models used in theoretical neuroscience.
 > (2) From the use of Bayesian models in theoretical neuroscience, have we learned, or can we hope to learn, that perception is Bayesian inference or that the brain is a Bayesian machine?
 
-  
-
 An important thing about the two questions is that, as Colombo and Series mentioned in the paper:
 
 > Given the increasing influence on the neuroscience of ideas and tools from such fields, it’s not surprising that Bayesian modeling has a lot to offer to study the brain. Yet, that the brain is a Bayesian machine does not follow from the fact that Bayesian models are used to study the brain and the behavior it generates.
@@ -43,7 +41,7 @@ Though, it is worth noticing that even if the model is able to compute the belie
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2MzQyNzU3LC0xODU3NTk4MDcwLC0xOT
+eyJoaXN0b3J5IjpbNDY3NjQwMzI5LC0xODU3NTk4MDcwLC0xOT
 AyMTYwNDgsLTE0MzEyMjk1NTQsLTE4ODg3MzczNzgsLTc5MTYw
 NzE0MV19
 -->
