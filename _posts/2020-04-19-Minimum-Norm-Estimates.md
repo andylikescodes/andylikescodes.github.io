@@ -19,7 +19,7 @@ The MNE method gives the best estimate for the current when minimal a priori inf
 
 The equation shows that there are infinite solutions to the lead field; “any primary-current distribution (together with volume currents) to which the measuring instrument is not sensitive may be added to the solution.” Regularization also applied to improve stability.
 
-![distribution picture](https://photos.google.com/u/2/photo/AF1QipPcrdee27bwbCXm3DITxX9Dwz7FmtCw8GMlT3jI)
+![Image](https://photos.app.goo.gl/zyu9fs7cxRLkLhfx5)
 
 The estimation of the primary-current distribution has direction and magnitude, as shown in the above image.
 
@@ -28,6 +28,6 @@ The estimation of the primary-current distribution has direction and magnitude, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjYxMTQ4ODEsMTA0NDQ4ODk4MSwzMD
-gxNDI4OTQsLTE4MDI0Mjc1MzksMTYxOTA0MTI5NV19
+eyJoaXN0b3J5IjpbMzY3MDE4NTA4LDEwNDQ0ODg5ODEsMzA4MT
+QyODk0LC0xODAyNDI3NTM5LDE2MTkwNDEyOTVdfQ==
 -->
