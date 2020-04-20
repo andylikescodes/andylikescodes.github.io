@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interpreting Magnetic Fields of the Brain: Minimum Norm Estimates
+title: The Baysian Brain
 tag: [Brain]
 category: Brain
 ---
@@ -35,7 +35,7 @@ The estimation of the primary-current distribution has direction and magnitude, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzQ3NDk4NywtMjA5NzM4NTUzOCw3Nj
+eyJoaXN0b3J5IjpbMTMxNjM2ODIxOCwtMjA5NzM4NTUzOCw3Nj
 M5ODM3MjIsMzY3MDE4NTA4LDEwNDQ0ODg5ODEsMzA4MTQyODk0
 LC0xODAyNDI3NTM5LDE2MTkwNDEyOTVdfQ==
 -->
