@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Baysian Brain
-tag: [Brain]
+tag: [Paper Review]
 category: Brain
 ---
 
@@ -20,6 +20,6 @@ To justify this point, the paper talks about the noise and ambiguity of sensory 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzEyMjk1NTQsLTE4ODg3MzczNzgsLT
-c5MTYwNzE0MV19
+eyJoaXN0b3J5IjpbLTE5MDIxNjA0OCwtMTQzMTIyOTU1NCwtMT
+g4ODczNzM3OCwtNzkxNjA3MTQxXX0=
 -->
