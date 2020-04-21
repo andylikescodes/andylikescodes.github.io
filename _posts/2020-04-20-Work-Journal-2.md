@@ -13,9 +13,9 @@ This week need to make progress on the HCP project. Now I have a good understand
 
 Then I should move on to looking at what the actual pipeline has done and try to figure something out.
 
-I 
+I expect to have some interesting break through in the HCP project by the end of the month. A thing that is left to be figured out is what kind of format we should keep as output before feeding the data into a causal model.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1MjI4NDM3XX0=
+eyJoaXN0b3J5IjpbMTk0NTcyNTI0M119
 -->
