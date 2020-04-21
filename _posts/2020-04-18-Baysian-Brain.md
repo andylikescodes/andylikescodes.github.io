@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Baysian Brain
+title: The Bayesian Brain
 tag: [Paper Review]
 category: Brain
 ---
@@ -44,7 +44,7 @@ Though, it is worth noticing that even if the model is able to compute the belie
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTU2MDY2MCwtMTg1NzU5ODA3MCwtMT
-kwMjE2MDQ4LC0xNDMxMjI5NTU0LC0xODg4NzM3Mzc4LC03OTE2
-MDcxNDFdfQ==
+eyJoaXN0b3J5IjpbLTY0MTI2MTUyMSwxNjE1NTYwNjYwLC0xOD
+U3NTk4MDcwLC0xOTAyMTYwNDgsLTE0MzEyMjk1NTQsLTE4ODg3
+MzczNzgsLTc5MTYwNzE0MV19
 -->
