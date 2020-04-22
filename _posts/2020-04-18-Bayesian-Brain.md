@@ -46,7 +46,10 @@ In the last two sections, 4 and 5, the issues that needs to be addressed in orde
 > 2. How might they represent probability distribution?
 > 3. How might they implement different approximations to Bayesian inference?
 
-The paper is 
+Multiple efforts have been shown to help explain the neural mechanism that encodes the probability density functions, particularly the possion firing patterns in visual neurons.
+
+The conclusion of the paper is that:
+> 1. Bayesian models do not provide mechanistic explanations
 
 (To be continue)
 
@@ -55,6 +58,6 @@ The paper is
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDk0OTIxLDIxMTQ5OTc2MDMsMjA1OD
-g2MTcwN119
+eyJoaXN0b3J5IjpbLTE3MTk2NTU0MjEsMjExNDk5NzYwMywyMD
+U4ODYxNzA3XX0=
 -->
