@@ -49,7 +49,9 @@ In the last two sections, 4 and 5, the issues that needs to be addressed in orde
 Multiple efforts have been shown to help explain the neural mechanism that encodes the probability density functions, particularly the possion firing patterns in visual neurons.
 
 The conclusion of the paper is that:
-> 1. Bayesian models do not provide mechanistic explanations
+> 1. Bayesian models do not provide mechanistic explanations currently, instead they are predictive instruments.
+> 2. The inference typically drawn from psychophysical performance to the Bayesian coding hypothesis should be understood within the Marr's framework.
+> 3. Within Marr's framework we can hope to learn that perception is Bayesian inference or that the brain is a Bayesian machine to the extent that Bayesian m
 
 (To be continue)
 
@@ -58,6 +60,6 @@ The conclusion of the paper is that:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTk2NTU0MjEsMjExNDk5NzYwMywyMD
-U4ODYxNzA3XX0=
+eyJoaXN0b3J5IjpbLTM5NDI4NTg1NCwyMTE0OTk3NjAzLDIwNT
+g4NjE3MDddfQ==
 -->
