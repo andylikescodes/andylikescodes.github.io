@@ -41,7 +41,12 @@ Though, it is worth noticing that even if the model is able to compute the belie
 
 Another important thing about Bayesian modeling is that, even though it makes good predictions about the behavioral data, it does not mean that the mechanism of our perception and neural encoding is Bayesian. There is a difference between realism and instrumentalism. Instrumentalists models can make good predictions, but it doesn’t care about the actual mechanism, while realistic models try to capture the components of a system and describe what is actually happening in the system. There are a few reasons why the Bayesian experiment mentioned in section 2 is only an instrumental model. The prior and the loss function are chosen not because of the biological implication, but for the convenience of mathematical calculation. How we should understand the inference from psychophysics to brain mechanisms remains a question which is addressed in section 4.
 
-In the last two sections, 4 and 5, 
+In the last two sections, 4 and 5, the issues that needs to be addressed in order for our brain to be Bayesian is the following:
+> 1. How might neurons represent uncertainty?
+> 2. How might they represent probability distribution?
+> 3. How might they implement different approximations to Bayesian inference?
+
+The paper is 
 
 (To be continue)
 
@@ -50,6 +55,6 @@ In the last two sections, 4 and 5,
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTE3ODAzOSwyMTE0OTk3NjAzLDIwNT
-g4NjE3MDddfQ==
+eyJoaXN0b3J5IjpbMTQ1NDk0OTIxLDIxMTQ5OTc2MDMsMjA1OD
+g2MTcwN119
 -->
