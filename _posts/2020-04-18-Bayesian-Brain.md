@@ -40,6 +40,9 @@ The paper demonstrates an experiment that fits a Bayesian model to predict the s
 Though, it is worth noticing that even if the model is able to compute the belief of the state of the world (the S) from sensory inputs, the model does not indicate any decision making or motor response mechanism. In order for this model to account for decision making or motor response, a loss function has to be optimized. It is also arguable that this kind of Bayesian modeling is feasible for brain neural processing due to its computational complexity. In that case, a linear function approximation might be applied instead of computing the exact probability distribution.
 
 Another important thing about Bayesian modeling is that, even though it makes good predictions about the behavioral data, it does not mean that the mechanism of our perception and neural encoding is Bayesian. There is a difference between realism and instrumentalism. Instrumentalists models can make good predictions, but it doesn’t care about the actual mechanism, while realistic models try to capture the components of a system and describe what is actually happening in the system. There are a few reasons why the Bayesian experiment mentioned in section 2 is only an instrumental model. The prior and the loss function are chosen not because of the biological implication, but for the convenience of mathematical calculation. How we should understand the inference from psychophysics to brain mechanisms remains a question which is addressed in section 4.
+
+In the last two sections, 4 and 5, 
+
 (To be continue)
 
 >### Reference
@@ -47,5 +50,6 @@ Another important thing about Bayesian modeling is that, even though it makes go
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDk5NzYwMywyMDU4ODYxNzA3XX0=
+eyJoaXN0b3J5IjpbMTkyOTE3ODAzOSwyMTE0OTk3NjAzLDIwNT
+g4NjE3MDddfQ==
 -->
