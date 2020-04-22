@@ -48,7 +48,7 @@ In the last two sections, 4 and 5, the issues that needs to be addressed in orde
 
 Multiple efforts have been shown to help explain the neural mechanism that encodes the probability density functions, particularly the possion firing patterns in visual neurons.
 
-In the last section, the author mentioned an example of the Hodgkin and Huxley computational model for n
+In the last section, the author mentioned an example of the Hodgkin and Huxley computational model for neurons, though the model is not necessary a claim on the real neuron mechanism.
 
 The conclusion of the paper is that:
 > 1. Bayesian models do not provide mechanistic explanations currently, instead they are predictive instruments.
@@ -60,6 +60,6 @@ The conclusion of the paper is that:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDMzNjYwMywyMTE0OTk3NjAzLDIwNT
-g4NjE3MDddfQ==
+eyJoaXN0b3J5IjpbNzYwNjkyNDgxLDIxMTQ5OTc2MDMsMjA1OD
+g2MTcwN119
 -->
