@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fieldtrip Source Reconstruction Notes
-tag: [Brain]
+tag: [Fieldtrp]
 category: Brain
 ---
 
@@ -28,6 +28,6 @@ The beamformer (LCMV & DICS) are source localization methods for time domain sig
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTQwNjQ0NywyNzU2Njc5NTgsLTU1Mz
-M4OTYsLTE1NTAzMTQ0NDJdfQ==
+eyJoaXN0b3J5IjpbOTg4NjExNTQzLDIwNDU0MDY0NDcsMjc1Nj
+Y3OTU4LC01NTMzODk2LC0xNTUwMzE0NDQyXX0=
 -->
