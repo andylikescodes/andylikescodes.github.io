@@ -23,7 +23,9 @@ Source reconstruction methods:
 
 Use multitapers to smooth the frequency spectrum, and get the targeted time window and the frequency range. Multitapering - increase frequency smoothing without changing length time window.
 
+The beamformer (LCMV & DICS) are source localization methods for time domain signals and frequency domain signals using a spatial
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1NjY3OTU4LC01NTMzODk2LC0xNTUwMz
-E0NDQyXX0=
+eyJoaXN0b3J5IjpbLTE2OTQ4Mzc3MDMsMjc1NjY3OTU4LC01NT
+MzODk2LC0xNTUwMzE0NDQyXX0=
 -->
