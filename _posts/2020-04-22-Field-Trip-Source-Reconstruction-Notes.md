@@ -21,6 +21,9 @@ Source reconstruction methods:
 	- Assume that the time-courses of different sources are uncorrelated
 	- What is the amount of activity at a given brain location
 
+Use multitapers to smooth the frequency spectrum, and get the targeted time window and the frequency range. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzM4OTYsLTE1NTAzMTQ0NDJdfQ==
+eyJoaXN0b3J5IjpbNzA0OTM1NDM0LC01NTMzODk2LC0xNTUwMz
+E0NDQyXX0=
 -->
