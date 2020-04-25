@@ -21,8 +21,12 @@ Brain signal is not stationary. That's why we need time-frequenct analysis. Ther
 Wavelet is similar to Fourier, by applying convolution of wavelet components that capture different frequencies. A wavelet is a sine or cosine wave convolve with a taper. The only parameters that we can tune is the length of the wavelet - the number of cycles we use in the wavelet signal, usually use 5 (3 for lower frequencies and 7 for higher frequencies).
 
 ![Wavelet](https://lh3.googleusercontent.com/FVla2LhmJFtcaM2qtY9XOCLDc2mrtoTAaQkwqDmzuBmL_yKOBl90ejxVJI8MBJStdysjcOYIBzawnVSCgdjku7_x5h255di9QtlaKZv8CeMWsZ2fr0veGvjkHSHZQd1kf5hu_sFkHSO4BnLRSdNI65CkL1BwoF6K-SUnME4wcAiBzNYBYbQlUJFvLbu4iBAXES1MJxUs9IbiflYSdaeueBq7-XV22lcWL9vWnc0nZd9RrPJOICEdm5jesRAIUFDgkM0AcAjNQF2h3mF0zwPcR89T-8_qw3eMs97rJ1ZXxeSHbbcYtB2vQip9KgdeGd6zLiIt8pSAoTOwiz6dJPEu0M80pob2QgsGm6Jt0ZEsFHzfDR-I9Y4gN52HsI4yoIMoIU_x0MVCKaKzVKJzJA-MjNGvZbUfofvAPzsIgQkkT6rowdbBp-oxcKTRUd7GVLN6Bfh0MzGD0FjJfu12qvkapLJBlj_cX06L1H4qD561komdeDdJsHfHJLD4wsSZ211Wcshgc-KylwShBEG6KGZB2A01VpXv9xAbZvt2KykQfL3EN6jZLVSPnXv09MqoHxg77ZY2FZtEOUN_h5MBY3XNJArA-cLMDiieq81kD1u4r2c4vh0qSgymgRA1g5_1_BFOZ3CZ4_S0BGWoGmFZYLpIsaMz4WVXW_j06_abcv6WM8omjk3G2v-ll9xYXAyj=w1784-h1258-no)
+
+This is some example code working with  Fourier and Wavelet in Fieldtrip:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTY3OTQxOCwxMzM2NDk3NjQ1LDEzOD
+eyJoaXN0b3J5IjpbMTEyMzgzODA1NywxMzM2NDk3NjQ1LDEzOD
 g1MjU1MjAsLTIwODYxMTIzMDIsLTk4NTUxNTg2LC0yMDAwNTM0
 NzkzXX0=
 -->
