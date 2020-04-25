@@ -13,9 +13,8 @@ A multitaper method is applied to smooth the frequency power ususally used in mo
 
 For low frequency, using a Hanning taper is good enough. Using too many tapers will smooth all the important signals in lower frequencies. The example gives in the video is that from 1-30Hz, Hanning, from 30Hz and above, use 'dpss' multitapering.
 
-
-
+Brain signal is not stationary. That's why
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODUyNTUyMCwtMjA4NjExMjMwMiwtOT
-g1NTE1ODYsLTIwMDA1MzQ3OTNdfQ==
+eyJoaXN0b3J5IjpbLTkwMDAzMTM4MCwxMzg4NTI1NTIwLC0yMD
+g2MTEyMzAyLC05ODU1MTU4NiwtMjAwMDUzNDc5M119
 -->
