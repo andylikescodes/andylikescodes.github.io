@@ -9,7 +9,8 @@ Satuarday should probably take a break, however, I still have done something. I 
 
 Get use to relaxing. When working, relax. When making decisions, relax. Facing any situations, relax. The worse cases scenario is just like right now, nobody cares about you. 
 
-It is also good that I don't care about any others. I guess this is the way I choose to live. I am a lonely
+It is also good that I don't care about any others. I guess this is the way I choose to live. I am a lonely man, but that's OK. May be that's good. No need to pretend to be happy, no need to pretend to be social. I am not, I don't care, so I don't have to pretend that I care.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzMxNjE2Nl19
+eyJoaXN0b3J5IjpbMTQzMzkzMTYzOF19
 -->
