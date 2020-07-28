@@ -11,11 +11,11 @@ If we have an observed treatment $Z$ and a test statistic $t(Z, y)$. If we calcu
 
 $\bar{Y}_t - \bar{Y}_c$ is the average effect under the treated subjects and the untreated subjects. When we calculate this value for all possible assignments $Z$, then we get a distribution for $\bar{Y}_t - \bar{Y}_c$. An important question is that what does this probability distribution represent?
 
-Should I consider this distribution as the $H_0$ distribution? Assuming there is no treatment effect? However, the observed $Y$ is associated with a particular $Z$, so what does it mean by randomizing $Z$ and 
+Should I consider this distribution as the $H_0$ distribution? Assuming there is no treatment effect? However, the observed $Y$ is associated with a particular $Z$, so what does it mean by randomizing $Z_1$ and then calcuate $\bar{Y}_t - \bar{Y}_c$?
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0NDQ2OTMxLC0yMDY5NzA4NTQ1XX0=
+eyJoaXN0b3J5IjpbMjAwNzQ1NTMyNSwtMjA2OTcwODU0NV19
 -->
