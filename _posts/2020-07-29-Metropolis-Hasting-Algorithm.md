@@ -7,10 +7,11 @@ category: Baysian Statistics
 
 Study Notes for Cousera Course: [Bayesian Statistics: Techniques and Models](https://www.coursera.org/learn/mcmc-bayesian-statistics/)) by Matthew Heiner.
 
-Bayesian statistics allows us to caluculate the posterior distribution using the likelihood function and the prior distribution. The posterior distribution is proportional to the likelihood function times the prior given 
+Bayesian statistics allows us to caluculate the posterior distribution using the likelihood function and the prior distribution. The posterior distribution is proportional to the likelihood function times the prior formulated by the following equation:
+$$p(\theta) \poportional$$ 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTY1MDk2MzFdfQ==
+eyJoaXN0b3J5IjpbMTEwNjA3NjgzOF19
 -->
