@@ -11,10 +11,10 @@ Bayesian statistics allows us to caluculate the posterior distribution using the
 $$p(\theta) \propto g(\theta)$$ 
 Where $p(\theta)$ is the posterior and $g(\theta)$ is the unormalized likelihood x prior. The reason why we need algorithm like the Metropolis Hasting is that in more sophisticated settings, the denorminator/normalizer is difficult to integrate, but we still want to be able to estimate the statistics of the posterior distribution, e.g., mean and variance.
 
-The Metropolis Hasting algorithm uses a proposal distribution, and draw samples $\theta^*$ from this proposal distribution, namely, $\theta^* ~ q(\theta^*|\theta_{i-1})$. Based on some accept/reject criteria and assuming the distribution is a markov chain  
+The Metropolis Hasting algorithm uses a proposal distribution, and draw samples $\theta^*$ from this proposal distribution, namely, $\theta^* \sim q(\theta^*|\theta_{i-1})$. Based on some accept/reject criteria and assuming the distribution is a markov chain  
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTA0NjUwMV19
+eyJoaXN0b3J5IjpbODkwMzYwMTYyXX0=
 -->
