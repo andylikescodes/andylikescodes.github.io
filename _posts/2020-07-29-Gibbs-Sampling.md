@@ -11,11 +11,13 @@ Compare to Metropolis Hasting (MH) that samples for a single parameter, Gibbs Sa
 
 $$p(\theta, \phi|y) \propto g(\theta, \phi) \\
     p(\theta, \phi|y) = p(\phi|y)p(\theta|\phi, y)\\
-    p(\theta|\phi, y)\propto p(\theta, \phi|y) \propto g(\theta, \phi)$$
+    p(\theta|\phi, y)\propto p(\theta, \phi|y) \propto g(\theta, \phi) \\
+   p(\phi|\theta, y)\propto p(\theta, \phi|y) \propto g(\theta, \phi) $$
+   
 
  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzMzNDQ0MTFdfQ==
+eyJoaXN0b3J5IjpbODIxNzgzMjU0XX0=
 -->
