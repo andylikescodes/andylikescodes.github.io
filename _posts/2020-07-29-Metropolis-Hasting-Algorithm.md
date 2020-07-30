@@ -25,14 +25,14 @@ There are also two different types of Metropolis Hasting (MH) algorithm - indepe
 
 Just found that for independent MH, it is better to choose a proposal distribution that is very close to the actual posterior distribution. Though, I am not sure how because isn't that the original purpose of using the MH method because we want to approximate the posterior distribution through simulations? It seems like using random walk MH, we can choose some normal distribution to begin with and over time it will get to the target distribution. I think random walk MH  is more useful, although I guess it takes more time to run. 
 
-The MH is able to converge to $p$ beacause it is utilizing the information from $g$. $g$ is known and derivable from the data and prior distribution we have, although it is hard to get the probability distribution for $p$ because the denorminator might be hard to integrate and therefore the posterior $p$ has no close form solution. Markov ChaMCMC sampling methods like MH and Gibbs Sampling solved this problem by 
+The MH is able to converge to $p$ beacause it is utilizing the information from $g$. $g$ is known and derivable from the data and prior distribution we have, although it is hard to get the probability distribution for $p$ because the denorminator might be hard to integrate and therefore the posterior $p$ has no close form solution. Markov Chain Monte Carlo (MCMC) sampling methods like MH and Gibbs Sampling solved this problem by approximating the posterior distribution $p$ by using the information from $g$ through some accept/reject criteria.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzE2NjU3NywtOTI1NjI3MTQsLTEzMD
-M4MTUyNzMsLTM4Njc1MzM5MSwxMDcyNTQyODksMTA4MDIyNzMx
-MCwtMjA2NzU5Njg2OCwtOTk1NTEwOTY4LC0xOTY5NTgwODU4LD
-k5ODIxNjU1NSwtMTg2NDk3NDc5NiwtMTg2NDk3NDc5NiwtMjUz
-MDY3ODAyXX0=
+eyJoaXN0b3J5IjpbLTEyMDcxMjExNzUsLTkyNTYyNzE0LC0xMz
+AzODE1MjczLC0zODY3NTMzOTEsMTA3MjU0Mjg5LDEwODAyMjcz
+MTAsLTIwNjc1OTY4NjgsLTk5NTUxMDk2OCwtMTk2OTU4MDg1OC
+w5OTgyMTY1NTUsLTE4NjQ5NzQ3OTYsLTE4NjQ5NzQ3OTYsLTI1
+MzA2NzgwMl19
 -->
