@@ -2,7 +2,7 @@
 layout: post
 title: Foundations of Causal Discovery (Eberhardt, 2017)
 tag: [Paper Review]
-category: Causal Modeling
+category: Causal Inference
 ---
 
 
@@ -14,6 +14,6 @@ Causal relationships are important because it shows us how a system behaves unde
 
 >[Eberhardt, F., 2017. Introduction to the foundations of causal discovery. Int J Data Sci Anal 3, 81–91. https://doi.org/10.1007/s41060-016-0038-6](https://www.zotero.org/google-docs/?fuBVtW)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDc2ODYwOCwtMTI4ODE2NjYyOSwtOD
-cyNDk0NTg3XX0=
+eyJoaXN0b3J5IjpbLTQ2Nzk3Mjk1NiwtNDQwNzY4NjA4LC0xMj
+g4MTY2NjI5LC04NzI0OTQ1ODddfQ==
 -->
