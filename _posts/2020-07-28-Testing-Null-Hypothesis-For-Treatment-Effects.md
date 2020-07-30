@@ -13,12 +13,14 @@ $\bar{Y}_t - \bar{Y}_c$ is the average effect under the treated subjects and the
 
 Should I consider this distribution as the $H_0$ distribution? Assuming there is no treatment effect? However, the observed $Y$ is associated with a particular $Z$, so what does it mean by randomizing $Z_1$ and then calcuate $\bar{Y}_t - \bar{Y}_c$?
 
-Watching the video again - under $H_0$ the potential outcomes are the same for each subject $y_i(0) = y_i(1)$ for all assignments .
+Watching the video again - under $H_0$ the potential outcomes are the same for each subject $y_i(0) = y_i(1)$ for all assignments in $\Omega$.
+
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjIzNTc4LC0xOTUzNDEzODY0LDIwMD
+eyJoaXN0b3J5IjpbNTY2MjA2NjM4LC0xOTUzNDEzODY0LDIwMD
 c0NTUzMjUsLTIwNjk3MDg1NDVdfQ==
 -->
