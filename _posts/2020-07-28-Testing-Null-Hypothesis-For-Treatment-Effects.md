@@ -21,14 +21,14 @@ However, that's when we know the correct answer, and then we can construct the p
 
 Consider that know all the possible treatment assignments and each of them are equally likely to happen, then each assignment have a test statistics $\bar{Y}_t - \bar{Y}_c$ calculated from one single observation $y=(1,3,4,6)$ and treatment $Z=(0,0,1,1)$. I think the rationale behine this is that, if we observed $y=(1,3,4,5)$, under $H_0$ that there is no treatment effect, it won't matter the way you assign treatments. $\bar{Y}_t - \bar{Y}_c$ is assumed to be 0 for all assignments. I think this example is just to demostrate a particular test statistic that we can use, but not demonstrating a valid hypothesis testing for no treatment effects (?).
 
-In the later section of the video, a more valid $H_0$ is given that $H_0: \tau=1, H_1: \tau>1$ where $y_i(1) - y_i(0)=\tau$ and now everything start to make sense. Under the $H_0$, from the observed data we have $(y_1(0) = 1, y_2(0)=3, y_3(0)=3, y_4(0)=5)$ and $(y_1(1) = 2, y_2(1)=4, y_3(1)=4, y_4(1)=6)$ given treatment assignment $Z = (1,1,0,0)$. This way we can calculate the distribution of $\bar{Y}_1 - \bar{Y}_0$  
+In the later section of the video, a more valid $H_0$ is given that $H_0: \tau=1, H_1: \tau>1$ where $y_i(1) - y_i(0)=\tau$ and now everything start to make sense. Under the $H_0$, from the observed data we have $(y_1(0) = 1, y_2(0)=3, y_3(0)=3, y_4(0)=5)$ and $(y_1(1) = 2, y_2(1)=4, y_3(1)=4, y_4(1)=6)$ given treatment assignment $Z = (1,1,0,0)$. Something still not making sense here, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzOTEyMzEzMiwxNTA4NTM2MTAwLC0xNT
-c4MjI0OTQxLC0xMDc4MjQ5NDM0LDY3ODMyMzc5MiwtNTgyNjk0
-NTQzLDIxMjgyNzEwNjIsMjA5MTY1NTc3MywyMDUxNDEzNzUwLD
-Y0NDM3MzYzNSwtMTQ4NTEwODA3MSwtMTA5ODIyNzc5NSwxMzEx
-NDU4ODcxLDU2NjIwNjYzOCwtMTk1MzQxMzg2NCwyMDA3NDU1Mz
-I1LC0yMDY5NzA4NTQ1XX0=
+eyJoaXN0b3J5IjpbLTEzNjcyNTIzMzEsMTUwODUzNjEwMCwtMT
+U3ODIyNDk0MSwtMTA3ODI0OTQzNCw2NzgzMjM3OTIsLTU4MjY5
+NDU0MywyMTI4MjcxMDYyLDIwOTE2NTU3NzMsMjA1MTQxMzc1MC
+w2NDQzNzM2MzUsLTE0ODUxMDgwNzEsLTEwOTgyMjc3OTUsMTMx
+MTQ1ODg3MSw1NjYyMDY2MzgsLTE5NTM0MTM4NjQsMjAwNzQ1NT
+MyNSwtMjA2OTcwODU0NV19
 -->
