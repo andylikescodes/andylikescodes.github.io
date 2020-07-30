@@ -21,14 +21,14 @@ This distribution shows that the drawing is a Markov chain, the probability of d
 
 The proposal distribution $q$ is not the actual posterior distribution of $p$. The accept/reject criteria are to correct for this error. The $q$ distribution usually used a normal distribution with the mean that is the $\theta^\prime$ previously drawn and a chosen standard deviation. The benefit of using a normal distribution is that in the accept/reject criteria the formula is simplified because normal distribution is symmetrical. Although one has to consider that the best $q$ should be similar to $p$. The lesson didn't mention anything about the best strategy of choosing $q$ (?), but from the simulation code, it seems like whatever distribution we choose for $q$, after a large number of iterations, the simulated $\theta^\prime$ centers around a mean value with some variance.
 
-There are also two different types of Metropolis Hasting (MH) algorithm - independent MH and random walk MH. Independent MH draws from a fixed normal/uniform distribution that does not depend of the previous draw. 
+There are also two different types of Metropolis Hasting (MH) algorithm - independent MH and random walk MH. Independent MH draws from a fixed normal/uniform distribution that does not depend of the previous draw. Random walk MH use the previous draw $\theta^\prime$ as the proposal distribution. I am assuming that the random walk MH converges faster? Not sure what the benefits of each of them.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDAzMDIzOSwtMTMwMzgxNTI3MywtMz
-g2NzUzMzkxLDEwNzI1NDI4OSwxMDgwMjI3MzEwLC0yMDY3NTk2
-ODY4LC05OTU1MTA5NjgsLTE5Njk1ODA4NTgsOTk4MjE2NTU1LC
-0xODY0OTc0Nzk2LC0xODY0OTc0Nzk2LC0yNTMwNjc4MDJdfQ==
+eyJoaXN0b3J5IjpbLTE4MzczMTkxOTgsLTEzMDM4MTUyNzMsLT
+M4Njc1MzM5MSwxMDcyNTQyODksMTA4MDIyNzMxMCwtMjA2NzU5
+Njg2OCwtOTk1NTEwOTY4LC0xOTY5NTgwODU4LDk5ODIxNjU1NS
+wtMTg2NDk3NDc5NiwtMTg2NDk3NDc5NiwtMjUzMDY3ODAyXX0=
 
 -->
