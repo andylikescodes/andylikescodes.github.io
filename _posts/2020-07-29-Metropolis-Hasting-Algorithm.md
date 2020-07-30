@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Metropolis Hasting Algorithm
+title: MCMC-Metropolis Hasting
 tag: [Study Notes]
 category: Bayesian Statistics
 ---
@@ -30,7 +30,7 @@ The MH is able to converge to $p$ beacause it is utilizing the information from 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDcxMjExNzUsLTkyNTYyNzE0LC0xMz
+eyJoaXN0b3J5IjpbLTIxNDQyNTUwNjcsLTkyNTYyNzE0LC0xMz
 AzODE1MjczLC0zODY3NTMzOTEsMTA3MjU0Mjg5LDEwODAyMjcz
 MTAsLTIwNjc1OTY4NjgsLTk5NTUxMDk2OCwtMTk2OTU4MDg1OC
 w5OTgyMTY1NTUsLTE4NjQ5NzQ3OTYsLTE4NjQ5NzQ3OTYsLTI1
