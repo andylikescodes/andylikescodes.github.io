@@ -17,7 +17,7 @@ Watching the video again - under $H_0$ the potential outcomes are the same for e
 
 Just studying the Fisher and Bristol tea experiment example, for 8 cups of tea with 4 put in milk first and 4 put in tea first, the probability of each possible outcome is $\binom{8}{4} = \frac{8!}{4!(8-4)!}$. But still, what is the the $H_0$? Bristol knows that there are 4 put in milk first and 4 put in tea first, so she is going to provide answers with 4/4 format but just answer them in different places for all the 8 cups. So the statistcs that we are interested in would be the number of correct answers $t$. Now we want to know the probability of $t\geq t(obs)$, where $t(obs)$ is the observed value, the answer that Bristol provides. Now, the next question is still, how do we know the distribution of $t$? I guess it is because we have $\binom{8}{4}$ this many equally likely events, and we also know the correct answer. From this we can calculate the probability of Bristol answering correctly for 1, 2, 3, 4, ..., 8. This is the distribution for $t$. Now we know the distribution for $t$, we can calculate $Pr(t\geq t(obs))$ to see the probability of Bristol getting the correct answer by just guessing. If the probability is very small, then we say that it is very unlikely that Bristol is just guessing. With some significant p-values, we can reject $H_0$. 
 
-However, that's when we know the correct answer, and then we can construct the probability distribution under $H_0$. In this case, when we have equally likely treatments, can we do the same thing? Let's say that the treatments are randomly assigned, then we calculated $Pr(t\geq t(obs))$, where $t(obs)$ is number of treated subjects. This is not what we want though. We want a statistics that relate to the effects, and in the example,  $\bar{Y}_t - \bar{Y}_c$ is selected. I guess that if we randomly shuffle the treatment. 
+However, that's when we know the correct answer, and then we can construct the probability distribution under $H_0$. In this case, when we have equally likely treatments, can we do the same thing? Let's say that the treatments are randomly assigned, then we calculated $Pr(t\geq t(obs))$, where $t(obs)$ is number of treated subjects. This is not what we want though. We want a statistics that relate to the effects, and in the example,  $\bar{Y}_t - \bar{Y}_c$ is selected. I guess that if we randomly shuffle the treatment assignment, we have all the possible events of treatment assignments. 
 
 
 
@@ -27,8 +27,8 @@ However, that's when we know the correct answer, and then we can construct the p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI2MjEwMzMsMjA1MTQxMzc1MCw2ND
-QzNzM2MzUsLTE0ODUxMDgwNzEsLTEwOTgyMjc3OTUsMTMxMTQ1
-ODg3MSw1NjYyMDY2MzgsLTE5NTM0MTM4NjQsMjAwNzQ1NTMyNS
-wtMjA2OTcwODU0NV19
+eyJoaXN0b3J5IjpbMjQ0MzQ0ODE5LDIwNTE0MTM3NTAsNjQ0Mz
+czNjM1LC0xNDg1MTA4MDcxLC0xMDk4MjI3Nzk1LDEzMTE0NTg4
+NzEsNTY2MjA2NjM4LC0xOTUzNDEzODY0LDIwMDc0NTUzMjUsLT
+IwNjk3MDg1NDVdfQ==
 -->
