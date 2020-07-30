@@ -21,14 +21,14 @@ However, that's when we know the correct answer, and then we can construct the p
 
 Consider that know all the possible treatment assignments and each of them are equally likely to happen, then each assignment have a test statistics $\bar{Y}_t - \bar{Y}_c$ calculated from one single observation $y=(1,3,4,6)$ and treatment $Z=(0,0,1,1)$. I think the rationale behine this is that, if we observed $y=(1,3,4,5)$, under $H_0$ that there is no treatment effect, it won't matter the way you assign treatments. $\bar{Y}_t - \bar{Y}_c$ is assumed to be 0 for all assignments. I think this example is just to demostrate a particular test statistic that we can use, but not demonstrating a valid hypothesis testing for no treatment effects (?).
 
-In the later section of the video, a more valid $H_0$ is given that $H_0: \tau=1, H_1: \tau>1$ where ${y}_i(1) - y_i(0)=\tau$ is and now everything start to make sense. Under the $H_0$, from the observed data we have $(y_1(0) = 1, y_2(0)=3, y_3(0)=3, y_4(0)=5)$ and $(y_1(0) = 2, y_2(0)=4, y_3(0)=4, y_4(0)=6)$.  
+In the later section of the video, a more valid $H_0$ is given that $H_0: \tau=1, H_1: \tau>1$ where ${y}_i(1) - y_i(0)=\tau$ is and now everything start to make sense. Under the $H_0$, from the observed data we have $(y_1(0) = 1, y_2(0)=3, y_3(0)=3, y_4(0)=5)$ and $(y_1(0) = 2, y_2(0)=4, y_3(0)=4, y_4(0)=6)$. This way we can calculate $\bar{Y}_1 - \bar{Y}_0$  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDIzMjE4MSwtMTU3ODIyNDk0MSwtMT
-A3ODI0OTQzNCw2NzgzMjM3OTIsLTU4MjY5NDU0MywyMTI4Mjcx
-MDYyLDIwOTE2NTU3NzMsMjA1MTQxMzc1MCw2NDQzNzM2MzUsLT
-E0ODUxMDgwNzEsLTEwOTgyMjc3OTUsMTMxMTQ1ODg3MSw1NjYy
-MDY2MzgsLTE5NTM0MTM4NjQsMjAwNzQ1NTMyNSwtMjA2OTcwOD
-U0NV19
+eyJoaXN0b3J5IjpbNDYyMjY0MjY0LC0xNTc4MjI0OTQxLC0xMD
+c4MjQ5NDM0LDY3ODMyMzc5MiwtNTgyNjk0NTQzLDIxMjgyNzEw
+NjIsMjA5MTY1NTc3MywyMDUxNDEzNzUwLDY0NDM3MzYzNSwtMT
+Q4NTEwODA3MSwtMTA5ODIyNzc5NSwxMzExNDU4ODcxLDU2NjIw
+NjYzOCwtMTk1MzQxMzg2NCwyMDA3NDU1MzI1LC0yMDY5NzA4NT
+Q1XX0=
 -->
