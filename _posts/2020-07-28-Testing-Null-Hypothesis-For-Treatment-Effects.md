@@ -21,11 +21,11 @@ However, that's when we know the correct answer, and then we can construct the p
 
 Consider that know all the possible treatment assignments and each of them are equally likely to happen, then each assignment have a test statistics $\bar{Y}_t - \bar{Y}_c$ calculated from one single observation $y=(1,3,4,6)$ and treatment $Z=(0,0,1,1)$. I think the rationale behine this is that, if we observed $y=(1,3,4,5)$, under $H_0$ that there is no treatment effect, it won't matter the way you assign treatments. $\bar{Y}_t - \bar{Y}_c$ is assumed to be 0 for all assignments. I think this example is just to demostrate a particular test statistic that we can use, but not demonstrating a valid hypothesis testing for no treatment effects (?).
 
-In the later section of the video, a more valid $H_0$ is given that $H_0: \tau=1, H_1: \tau>1$ and now everything start to make sense. Under the $H_0$, we have  
+In the later section of the video, a more valid $H_0$ is given that $H_0: \tau=1, H_1: \tau>1$ where ${y}_i(1) - y_i(0)=\tau$ is and now everything start to make sense. Under the $H_0$, from the observed data we have $y$  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODk1NTY5NSwtMTU3ODIyNDk0MSwtMT
+eyJoaXN0b3J5IjpbMTQzODgwNTI4MywtMTU3ODIyNDk0MSwtMT
 A3ODI0OTQzNCw2NzgzMjM3OTIsLTU4MjY5NDU0MywyMTI4Mjcx
 MDYyLDIwOTE2NTU3NzMsMjA1MTQxMzc1MCw2NDQzNzM2MzUsLT
 E0ODUxMDgwNzEsLTEwOTgyMjc3OTUsMTMxMTQ1ODg3MSw1NjYy
