@@ -2,7 +2,7 @@
 layout: post
 title: Refresh on Trig Identities, Integrals and Substitutions
 tag: [Math, Calculus]
-category: Calculus
+category: Math
 ---
 
 Link to the lecture: [Lec 27 MIT 18.01 Single Variable Calculus, Fall 2007](https://www.youtube.com/watch?v=Bv9kVDcj7yo&index=24&list=PL590CCC2BC5AF3BC1)
@@ -154,3 +154,6 @@ $$\begin{array}{ccl}\sqrt{a^2-x^2}&\to&x=a\sin(\theta)/a\cos(\theta)\\
 \end{array}$$
 
 These substitutions can be derived using a right triangle by assigning the 1 and x to the hpp, opp and adj.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU4MzQ2ODAyN119
+-->
