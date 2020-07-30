@@ -2,7 +2,7 @@
 layout: post
 title: Order Statistics
 tag: [Statistics, Math]
-category: Statistics
+category: Math
 ---
 
 Order statistic is interesting because it is a little bit different from the often seen probability distributions. The nature of the order statistics allows us to design sampling methods that save us money and time. In certain experiments when there are strict constrains on measurements of samples or the number of samples we can take, order statistic can sometimes help us identify the best model using limited information.
@@ -121,3 +121,6 @@ if $$y_1 <...< y_r < t_0$$ and $$r=1,2,...,n$$.
 **Reference**:
 
 All the above formulas and writings are summarized from a classic book [Introduction to Probability and Mathematical Statistics](https://www.amazon.com/Introduction-Probability-Mathematical-Statistics-Duxbury/dp/0534380204/ref=sr_1_1?ie=UTF8&qid=1497655067&sr=8-1&keywords=introduction+to+probability+and+mathematical+statistics) by Bain/Engelhardt.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzMjIyNzc5NTBdfQ==
+-->
