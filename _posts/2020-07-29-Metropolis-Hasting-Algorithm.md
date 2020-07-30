@@ -5,7 +5,7 @@ tag: [Study Notes]
 category: Bayesian Statistics
 ---
 
-Study Notes for Coursera Course: [Bayesian Statistics: Techniques and Models](https://www.coursera.org/learn/mcmc-bayesian-statistics/)) by Matthew Heiner.
+Study Notes for Coursera Course: [Bayesian Statistics: Techniques and Models](https://www.coursera.org/learn/mcmc-bayesian-statistics/) by Matthew Heiner.
 
 Bayesian statistics allows us to calculate the posterior distribution using the likelihood function and the prior distribution. The posterior distribution is proportional to the likelihood function times the prior formulated by the following equation:
 $$p(\theta) \propto g(\theta)$$ 
@@ -22,7 +22,7 @@ The proposal distribution $q$ is not the actual posterior distribution of $p$. T
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjY5MTM1NiwtMzg2NzUzMzkxLDEwNz
+eyJoaXN0b3J5IjpbMTg1NTg3MzQzMSwtMzg2NzUzMzkxLDEwNz
 I1NDI4OSwxMDgwMjI3MzEwLC0yMDY3NTk2ODY4LC05OTU1MTA5
 NjgsLTE5Njk1ODA4NTgsOTk4MjE2NTU1LC0xODY0OTc0Nzk2LC
 0xODY0OTc0Nzk2LC0yNTMwNjc4MDJdfQ==
