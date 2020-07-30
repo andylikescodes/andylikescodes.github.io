@@ -13,7 +13,7 @@ $\bar{Y}_t - \bar{Y}_c$ is the average effect under the treated subjects and the
 
 Should I consider this distribution as the $H_0$ distribution? Assuming there is no treatment effect? However, the observed $Y$ is associated with a particular $Z$, so what does it mean by randomizing $Z_1$ and then calcuate $\bar{Y}_t - \bar{Y}_c$?
 
-Watching the video again - under $H_0$ the potential outcomes are the same for each subject $y_i(0) = y_i(1)$ for all assignments in $\Omega$. In randomized experiments, all assignment vectors in $\Omega$ are equally likely. I am guessing that under the $H_0$, if we take $\bar{Y}_t - \bar{Y}_c$ as the statistics, then it should be some kind of a distribution around 0, because $H_0$ is making the assumption that there is no treatment effect. Then after we have a bunch of observations, the
+Watching the video again - under $H_0$ the potential outcomes are the same for each subject $y_i(0) = y_i(1)$ for all assignments in $\Omega$. In randomized experiments, all assignment vectors in $\Omega$ are equally likely. I am guessing that under the $H_0$, if we take $\bar{Y}_t - \bar{Y}_c$ as the statistics, then it should be some kind of a distribution around 0, because $H_0$ is making the assumption that there is no treatment effect. Then after we have a bunch of observations, then we can use these observations to get a statistics to do the hypothesis testing. Although, the question now is how do we know the distribution/statistics under $H_0$?
 
 
 
@@ -23,6 +23,6 @@ Watching the video again - under $H_0$ the potential outcomes are the same for e
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwNDQ0MTMzLDU2NjIwNjYzOCwtMTk1Mz
-QxMzg2NCwyMDA3NDU1MzI1LC0yMDY5NzA4NTQ1XX0=
+eyJoaXN0b3J5IjpbLTkzOTQ1NTUxNiw1NjYyMDY2MzgsLTE5NT
+M0MTM4NjQsMjAwNzQ1NTMyNSwtMjA2OTcwODU0NV19
 -->
