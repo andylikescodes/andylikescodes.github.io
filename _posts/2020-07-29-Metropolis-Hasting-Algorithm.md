@@ -25,11 +25,14 @@ There are also two different types of Metropolis Hasting (MH) algorithm - indepe
 
 Just found that for independent MH, it is better to choose a proposal distribution that is very close to the actual posterior distribution. Though, I am not sure how because isn't that the original purpose of using the MH method because we want to approximate the posterior distribution through simulations? It seems like using random walk MH, we can choose some normal distribution to begin with and over time it will get to the target distribution. I think random walk MH  is more useful, although I guess it takes more time to run. 
 
+The MH is able to converge to $p$ beacause it is utilizing the information from $g$. $g$ is known and derivable from the datalthough it is hard to get the probability distribution for $p$
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTYyNzE0LC0xMzAzODE1MjczLC0zOD
-Y3NTMzOTEsMTA3MjU0Mjg5LDEwODAyMjczMTAsLTIwNjc1OTY4
-NjgsLTk5NTUxMDk2OCwtMTk2OTU4MDg1OCw5OTgyMTY1NTUsLT
-E4NjQ5NzQ3OTYsLTE4NjQ5NzQ3OTYsLTI1MzA2NzgwMl19
+eyJoaXN0b3J5IjpbLTg0MjU5ODAwNywtOTI1NjI3MTQsLTEzMD
+M4MTUyNzMsLTM4Njc1MzM5MSwxMDcyNTQyODksMTA4MDIyNzMx
+MCwtMjA2NzU5Njg2OCwtOTk1NTEwOTY4LC0xOTY5NTgwODU4LD
+k5ODIxNjU1NSwtMTg2NDk3NDc5NiwtMTg2NDk3NDc5NiwtMjUz
+MDY3ODAyXX0=
 -->
