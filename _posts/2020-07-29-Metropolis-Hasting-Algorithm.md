@@ -8,7 +8,9 @@ category: Bayesian Statistics
 Study Notes for Coursera Course: [Bayesian Statistics: Techniques and Models](https://www.coursera.org/learn/mcmc-bayesian-statistics/) by Matthew Heiner.
 
 Bayesian statistics allows us to calculate the posterior distribution using the likelihood function and the prior distribution. The posterior distribution is proportional to the likelihood function times the prior formulated by the following equation:
+
 $$p(\theta) \propto g(\theta)$$ 
+
 Where $p(\theta)$ is the posterior and $g(\theta)$ is the unnormalized likelihood x prior. The reason why we need algorithm like the Metropolis Hasting is that in more sophisticated settings, the denominator/normalizer is difficult to integrate, but we still want to be able to estimate the statistics of the posterior distribution, e.g., mean and variance.
 
 The Metropolis Hasting algorithm uses a proposal distribution, and draw samples $\theta^\prime$ from this proposal distribution: 
@@ -22,8 +24,8 @@ The proposal distribution $q$ is not the actual posterior distribution of $p$. T
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTg3MzQzMSwtMzg2NzUzMzkxLDEwNz
-I1NDI4OSwxMDgwMjI3MzEwLC0yMDY3NTk2ODY4LC05OTU1MTA5
-NjgsLTE5Njk1ODA4NTgsOTk4MjE2NTU1LC0xODY0OTc0Nzk2LC
-0xODY0OTc0Nzk2LC0yNTMwNjc4MDJdfQ==
+eyJoaXN0b3J5IjpbLTEzMDM4MTUyNzMsLTM4Njc1MzM5MSwxMD
+cyNTQyODksMTA4MDIyNzMxMCwtMjA2NzU5Njg2OCwtOTk1NTEw
+OTY4LC0xOTY5NTgwODU4LDk5ODIxNjU1NSwtMTg2NDk3NDc5Ni
+wtMTg2NDk3NDc5NiwtMjUzMDY3ODAyXX0=
 -->
