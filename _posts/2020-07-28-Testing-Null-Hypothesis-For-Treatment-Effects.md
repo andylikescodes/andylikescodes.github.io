@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing Null Hypothesis for Treatment Effects
+title: Testing Null Hypothesis for No Treatment Effects
 tag: [Study Notes]
 category: Causal Inference
 ---
@@ -17,5 +17,6 @@ Should I consider this distribution as the $H_0$ distribution? Assuming there is
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzQ1NTMyNSwtMjA2OTcwODU0NV19
+eyJoaXN0b3J5IjpbLTE5NTM0MTM4NjQsMjAwNzQ1NTMyNSwtMj
+A2OTcwODU0NV19
 -->
