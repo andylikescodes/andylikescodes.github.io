@@ -21,14 +21,14 @@ However, that's when we know the correct answer, and then we can construct the p
 
 Consider that know all the possible treatment assignments and each of them are equally likely to happen, then each assignment have a test statistics $\bar{Y}_t - \bar{Y}_c$ calculated from one single observation $y=(1,3,4,6)$ and treatment $Z=(0,0,1,1)$. I think the rationale behine this is that, if we observed $y=(1,3,4,5)$, under $H_0$ that there is no treatment effect, it won't matter the way you assign treatments. $\bar{Y}_t - \bar{Y}_c$ is assumed to be 0 for all assignments. I think this example is just to demostrate a particular test statistic that we can use, but not demonstrating a valid hypothesis testing for no treatment effects (?).
 
-In the later section of the video, a more valid $H_0$ is given that $H_0: \tau=1, H_1: \tau>1$ where $y_i(1) - y_i(0)=\tau$ and now everything start to make sense. Under the $H_0$, from the observed data we have $(y_1(0) = 1, y_2(0)=3, y_3(0)=3, y_4(0)=5)$ and $(y_1(1) = 2, y_2(1)=4, y_3(1)=4, y_4(1)=6)$ given treatment assignment $Z = (1,1,0,0)$. If we randomly assign treatments, then we will have a distribution 
+In the later section of the video, a more valid $H_0$ is given that $H_0: \tau=1, H_1: \tau>1$ where $y_i(1) - y_i(0)=\tau$ and now everything start to make sense. Under the $H_0$, from the observed data we have $(y_1(0) = 1, y_2(0)=3, y_3(0)=3, y_4(0)=5)$ and $(y_1(1) = 2, y_2(1)=4, y_3(1)=4, y_4(1)=6)$ given treatment assignment $Z = (1,1,0,0)$. Gonna stop here for now and move on. This is still not very clear to me how to calculate the distriobution of $y_i(1) - y_i(0)$. I might come back to it later. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTAxODY0MCwxNTA4NTM2MTAwLC0xNT
-c4MjI0OTQxLC0xMDc4MjQ5NDM0LDY3ODMyMzc5MiwtNTgyNjk0
-NTQzLDIxMjgyNzEwNjIsMjA5MTY1NTc3MywyMDUxNDEzNzUwLD
-Y0NDM3MzYzNSwtMTQ4NTEwODA3MSwtMTA5ODIyNzc5NSwxMzEx
-NDU4ODcxLDU2NjIwNjYzOCwtMTk1MzQxMzg2NCwyMDA3NDU1Mz
-I1LC0yMDY5NzA4NTQ1XX0=
+eyJoaXN0b3J5IjpbMTE3MDM4MDYwMiwxMjU1MDE4NjQwLDE1MD
+g1MzYxMDAsLTE1NzgyMjQ5NDEsLTEwNzgyNDk0MzQsNjc4MzIz
+NzkyLC01ODI2OTQ1NDMsMjEyODI3MTA2MiwyMDkxNjU1NzczLD
+IwNTE0MTM3NTAsNjQ0MzczNjM1LC0xNDg1MTA4MDcxLC0xMDk4
+MjI3Nzk1LDEzMTE0NTg4NzEsNTY2MjA2NjM4LC0xOTUzNDEzOD
+Y0LDIwMDc0NTUzMjUsLTIwNjk3MDg1NDVdfQ==
 -->
