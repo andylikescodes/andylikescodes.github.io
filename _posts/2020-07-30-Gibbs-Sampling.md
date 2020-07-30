@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gibbs Sampling
+title: MCMC - Gibbs Sampling
 tag: [Study Notes]
 category: Bayesian Statistics
 ---
@@ -20,5 +20,5 @@ Sampling for one parameter at a time when treating the other parameters as const
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTMxOTI0NF19
+eyJoaXN0b3J5IjpbNjIxMjA4ODA1LC04MTkzMTkyNDRdfQ==
 -->
