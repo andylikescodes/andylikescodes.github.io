@@ -13,7 +13,7 @@ $\bar{Y}_t - \bar{Y}_c$ is the average effect under the treated subjects and the
 
 Should I consider this distribution as the $H_0$ distribution? Assuming there is no treatment effect? However, the observed $Y$ is associated with a particular $Z$, so what does it mean by randomizing $Z_1$ and then calcuate $\bar{Y}_t - \bar{Y}_c$?
 
-Watching the video again - under $H_0$ the potential outcomes are the same for each subject $y_i(0) = y_i(1)$ for all assignments in $\Omega$. In randomized experiments, all assignment vectors in $\Omega$ are equally likely. I am guessing that under the $H_0$, if we take $\bar{Y}_t - \bar{Y}_c$ as the statistics, then it should be some kind of a distribution around 0, because $H_0$ is making the assumption that there is no treatment effect. Then after we have a bunch of observations, then we can use these observations to get a statistics to do the hypothesis testing. Although, the question now is how do we know the distribution/statistics under $H_0$? If we think about hypothesis testing for the mean with known variance under normal distribution, we construct $H_0:\mu=\mu_0$. Then after we collect sample data and we have $\bar{x}$, we find the cumulated probability of  $\mu \geqq \bar{x}$ from the normal distribution of $\mu$ with   mean $\mu_0$ and some fixed variance. In this $H_0$ we need to construct something like $H_0: \bar{Y}_t - \bar{Y}_c=0$. The first thing is that
+Watching the video again - under $H_0$ the potential outcomes are the same for each subject $y_i(0) = y_i(1)$ for all assignments in $\Omega$. In randomized experiments, all assignment vectors in $\Omega$ are equally likely. I am guessing that under the $H_0$, if we take $\bar{Y}_t - \bar{Y}_c$ as the statistics, then it should be some kind of a distribution around 0, because $H_0$ is making the assumption that there is no treatment effect. Then after we have a bunch of observations, then we can use these observations to get a statistics to do the hypothesis testing. Although, the question now is how do we know the distribution/statistics under $H_0$? If we think about hypothesis testing for the mean with known variance under normal distribution, we construct $H_0:\mu=\mu_0$. Then after we collect sample data and we have $\bar{x}$, we find the cumulated probability of  $\mu \geqq \bar{x}$ from the normal distribution of $\mu$ with   mean $\mu_0$ and some fixed variance. In this $H_0$ we need to construct something like $H_0: \bar{Y}_t - \bar{Y}_c=0$. The first thing is that what is the statistics we are using in here? In the normal case, we know that the data is distributed normally, or we construct some statistics that distributed in a certain way. We do need to assume some kind of distribution a priori though, no? 
 
 
 
@@ -23,7 +23,7 @@ Watching the video again - under $H_0$ the potential outcomes are the same for e
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA0ODg1ODYsMTMxMTQ1ODg3MSw1Nj
+eyJoaXN0b3J5IjpbLTEwOTgyMjc3OTUsMTMxMTQ1ODg3MSw1Nj
 YyMDY2MzgsLTE5NTM0MTM4NjQsMjAwNzQ1NTMyNSwtMjA2OTcw
 ODU0NV19
 -->
