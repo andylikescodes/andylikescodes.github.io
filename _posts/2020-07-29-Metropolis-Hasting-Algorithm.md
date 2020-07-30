@@ -23,13 +23,14 @@ The proposal distribution $q$ is not the actual posterior distribution of $p$. T
 
 There are also two different types of Metropolis Hasting (MH) algorithm - independent MH and random walk MH. Independent MH draws from a fixed normal/uniform distribution that does not depend of the previous draw. Random walk MH use the previous draw $\theta^\prime$ as the proposal distribution. I am assuming that the random walk MH converges faster? Not sure what the benefits of each of them.
 
-Just found that for independent MH, it is better to choose a proposal distribution that is
+Just found that for independent MH, it is better to choose a proposal distribution that is very close to the actual posterior distribution. Though, I am not sure how because isn't that the original purpose of using the MH method because we want to approximate the posterior distribution through simulations? It seems  
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4NDMwMjE2LC0xMzAzODE1MjczLC0zOD
-Y3NTMzOTEsMTA3MjU0Mjg5LDEwODAyMjczMTAsLTIwNjc1OTY4
-NjgsLTk5NTUxMDk2OCwtMTk2OTU4MDg1OCw5OTgyMTY1NTUsLT
-E4NjQ5NzQ3OTYsLTE4NjQ5NzQ3OTYsLTI1MzA2NzgwMl19
+eyJoaXN0b3J5IjpbLTQyMTIwNDkwMiwtMTMwMzgxNTI3MywtMz
+g2NzUzMzkxLDEwNzI1NDI4OSwxMDgwMjI3MzEwLC0yMDY3NTk2
+ODY4LC05OTU1MTA5NjgsLTE5Njk1ODA4NTgsOTk4MjE2NTU1LC
+0xODY0OTc0Nzk2LC0xODY0OTc0Nzk2LC0yNTMwNjc4MDJdfQ==
+
 -->
