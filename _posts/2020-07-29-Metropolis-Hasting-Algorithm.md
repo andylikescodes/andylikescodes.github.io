@@ -15,13 +15,13 @@ $$\theta^\prime \sim q(\theta^\prime|\theta_{i-1})$$
 
 This distribution shows that the drawing is a markov chain, the probability of drawing a specific $\theta^\prime$ given the previous draw $\theta_{i-1}$. Based on some accept/reject criteria, all the accepted $\theta^\prime$s gives us simulated samples for the posterior distribution (? or just give us values around the mean with a normal distribution?). These samples converges to a mean values that represents the mean for the posterior distribution.
 
-The proposal distribution $q$ is not the actual posterior distribution $p$. The accept/reject criteria is to correct for this error. The $q$ distribution ususally used a normal distribution with a mean and standard deviation around the $\theta^\prime$ drawn. The benefits of using a normal distribution is that in the accept/reject criteria the formular is simplified. Although one has to consider that the best $q$ should be simular to $p$. The lesson didn't mention anything about the best strategy of choosing $q$ (?), but from the simulation code, it seems like whatever distribution we choose for $q$, after a large number of iterations, the simulated $\theta^\prime$ centers around a value with some variance.
+The proposal distribution $q$ is not the actual posterior distribution $p$. The accept/reject criteria is to correct for this error. The $q$ distribution ususally used a normal distribution with the mean as the $\theta^\prime$ previously drawn and a chosen standard deviation. The benefits of using a normal distribution is that in the accept/reject criteria the formular is simplified. Although one has to consider that the best $q$ should be simular to $p$. The lesson didn't mention anything about the best strategy of choosing $q$ (?), but from the simulation code, it seems like whatever distribution we choose for $q$, after a large number of iterations, the simulated $\theta^\prime$ centers around a value with some variance.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4Njc1MzM5MSwxMDcyNTQyODksMTA4MD
-IyNzMxMCwtMjA2NzU5Njg2OCwtOTk1NTEwOTY4LC0xOTY5NTgw
-ODU4LDk5ODIxNjU1NSwtMTg2NDk3NDc5NiwtMTg2NDk3NDc5Ni
-wtMjUzMDY3ODAyXX0=
+eyJoaXN0b3J5IjpbLTYwNTg5NzU1LC0zODY3NTMzOTEsMTA3Mj
+U0Mjg5LDEwODAyMjczMTAsLTIwNjc1OTY4NjgsLTk5NTUxMDk2
+OCwtMTk2OTU4MDg1OCw5OTgyMTY1NTUsLTE4NjQ5NzQ3OTYsLT
+E4NjQ5NzQ3OTYsLTI1MzA2NzgwMl19
 -->
