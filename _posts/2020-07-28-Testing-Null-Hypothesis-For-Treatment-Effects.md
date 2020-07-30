@@ -19,12 +19,12 @@ Just studying the Fisher and Bristol tea experiment example, for 8 cups of tea w
 
 However, that's when we know the correct answer, and then we can construct the probability distribution under $H_0$. In this case, when we have equally likely treatments, can we do the same thing? Let's say that the treatments are randomly assigned, then we calculated $Pr(t\geq t(obs))$, where $t(obs)$ is number of treated subjects. This is not what we want though. We want a statistics that relate to the effects, and in the example,  $\bar{Y}_t - \bar{Y}_c$ is selected. I guess that if we randomly shuffle the treatment assignment, we have all the possible events of treatment assignments.  I am not quite understanding this now. If we randomly shuffle the treatment, in reality, should I get different treatment effects? 
 
-Consider that know all the possible the treatment assignments and each of them are equally likely to happen, then each assignment have a test statistics $\bar{Y}_t - \bar{Y}_c$ calculated from one single observation $y=(1,3,4,6)$ and trea$Z$ 
+Consider that know all the possible treatment assignments and each of them are equally likely to happen, then each assignment have a test statistics $\bar{Y}_t - \bar{Y}_c$ calculated from one single observation $y=(1,3,4,6)$ and treatment $Z=(0,0,1,1)$. I think the rationale behine this is that, if we observed $y=(1,3,4,5)$, under $H_0$,   
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDgwOTU5MCwtNTgyNjk0NTQzLDIxMj
+eyJoaXN0b3J5IjpbLTI1OTg1OTg3NiwtNTgyNjk0NTQzLDIxMj
 gyNzEwNjIsMjA5MTY1NTc3MywyMDUxNDEzNzUwLDY0NDM3MzYz
 NSwtMTQ4NTEwODA3MSwtMTA5ODIyNzc5NSwxMzExNDU4ODcxLD
 U2NjIwNjYzOCwtMTk1MzQxMzg2NCwyMDA3NDU1MzI1LC0yMDY5
