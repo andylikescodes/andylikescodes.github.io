@@ -19,14 +19,14 @@ Just studying the Fisher and Bristol tea experiment example, for 8 cups of tea w
 
 However, that's when we know the correct answer, and then we can construct the probability distribution under $H_0$. In this case, when we have equally likely treatments, can we do the same thing? Let's say that the treatments are randomly assigned, then we calculated $Pr(t\geq t(obs))$, where $t(obs)$ is number of treated subjects. This is not what we want though. We want a statistics that relate to the effects, and in the example,  $\bar{Y}_t - \bar{Y}_c$ is selected. I guess that if we randomly shuffle the treatment assignment, we have all the possible events of treatment assignments.  I am not quite understanding this now. If we randomly shuffle the treatment, in reality, should I get different treatment effects? 
 
-Consider that know all the possible treatment assignments and each of them are equally likely to happen, then each assignment have a test statistics $\bar{Y}_t - \bar{Y}_c$ calculated from one single observation $y=(1,3,4,6)$ and treatment $Z=(0,0,1,1)$. I think the rationale behine this is that, if we observed $y=(1,3,4,5)$, under $H_0$ that there is no treatment effect, it won't matter the way you assign treatments. $\bar{Y}_t - \bar{Y}_c$ is assumed to be 0 for all assignments. The critical question is to figure   
+Consider that know all the possible treatment assignments and each of them are equally likely to happen, then each assignment have a test statistics $\bar{Y}_t - \bar{Y}_c$ calculated from one single observation $y=(1,3,4,6)$ and treatment $Z=(0,0,1,1)$. I think the rationale behine this is that, if we observed $y=(1,3,4,5)$, under $H_0$ that there is no treatment effect, it won't matter the way you assign treatments. $\bar{Y}_t - \bar{Y}_c$ is assumed to be 0 for all assignments. I think this example is just to demostrate a particular tes
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzgyNDk0MzQsNjc4MzIzNzkyLC01OD
-I2OTQ1NDMsMjEyODI3MTA2MiwyMDkxNjU1NzczLDIwNTE0MTM3
-NTAsNjQ0MzczNjM1LC0xNDg1MTA4MDcxLC0xMDk4MjI3Nzk1LD
-EzMTE0NTg4NzEsNTY2MjA2NjM4LC0xOTUzNDEzODY0LDIwMDc0
-NTUzMjUsLTIwNjk3MDg1NDVdfQ==
+eyJoaXN0b3J5IjpbMTI4NTEwNTEzMywtMTA3ODI0OTQzNCw2Nz
+gzMjM3OTIsLTU4MjY5NDU0MywyMTI4MjcxMDYyLDIwOTE2NTU3
+NzMsMjA1MTQxMzc1MCw2NDQzNzM2MzUsLTE0ODUxMDgwNzEsLT
+EwOTgyMjc3OTUsMTMxMTQ1ODg3MSw1NjYyMDY2MzgsLTE5NTM0
+MTM4NjQsMjAwNzQ1NTMyNSwtMjA2OTcwODU0NV19
 -->
