@@ -9,11 +9,12 @@ Study Notes for Coursera Course: [Bayesian Statistics: Techniques and Models](ht
 
 Compare to Metropolis Hasting (MH) that samples for a single parameter, Gibbs Sampling (GS) can sample for multiple parameters, and it does this one by one for each parameter. The important derivation to keep in mind is the following:
 
-$$p(\theta, \phi|y) \propto g(\theta, \phi)$$ $$p$$ 
+$$p(\theta, \phi|y) \propto g(\theta, \phi) \\
+    p(\theta, \phi|y) = [$$
 
  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTc0MDc4Ml19
+eyJoaXN0b3J5IjpbLTIwNjk0MzgxOTVdfQ==
 -->
