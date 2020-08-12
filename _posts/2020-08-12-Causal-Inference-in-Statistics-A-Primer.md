@@ -14,7 +14,7 @@ $$P(Y=1||do(X=1))-P(Y=1||do(X=0))$$
 
 Therefore, we would like to estimate the distribution $$P(Y||do(X=x))$$
 
-However, $P(Y||do(X=x))$ is a manipulated model fr
+However, $P(Y||do(X=x))$ is a manipulated model, which removes all arrows pointed $X$ from its paranets or stratified over the variables that meets the back-door criteria, i.e., 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDU0MzU0MSwxMjk3NjgwMl19
+eyJoaXN0b3J5IjpbLTE0MTQzODYyNCwxMjk3NjgwMl19
 -->
