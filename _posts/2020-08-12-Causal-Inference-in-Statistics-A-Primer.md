@@ -1,9 +1,8 @@
-
 ---
 layout: post
-title: Study Notes for Causal Inference in Statistics: A Primer (Pearl, 2016)
-tag: [Paper Review]
-category: Causal Inference
+title: MCMC - Gibbs Sampling
+tag: [Study Notes]
+category: Bayesian Statistics
 ---
 
 This post is a review of the book: Causal Inference in Statistics: A Primer (Pearl, 2016)
@@ -16,6 +15,6 @@ Therefore, we would like to estimate the distribution $$P(Y||do(X=x))$$
 
 However, $P(Y||do(X=x))$ is a manipulated model, which removes all arrows pointed $X$ from its paranets or stratified over the variables that meets the back-door criteria, i.e., $P(Y=y||do(X))$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTM4NDgwOCwtMTQxODMyNjk1MiwxMj
+eyJoaXN0b3J5IjpbLTQ4MzU3NzE5OSwtMTQxODMyNjk1MiwxMj
 k3NjgwMl19
 -->
