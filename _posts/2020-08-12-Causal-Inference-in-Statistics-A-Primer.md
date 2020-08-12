@@ -25,11 +25,12 @@ $$P(z, y| do(x))=P_m(z)P_m(y|x,z)=P(z)P(y|x,z)$$
 
 and $$P(y|do(x)) = \sum_zP(z)P(y|x,z)$$
 
-
+The adjustmThe book also talks about another, more subtle procedure that overcomes the practical difficulties of 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU1MjY3NTAsLTE3MjkwNTY4NjgsLT
-E1NTU1NzgzNjksLTE0MTgzMjY5NTIsMTI5NzY4MDJdfQ==
+eyJoaXN0b3J5IjpbMTg1MTY4OTg2NCwtMTg1NTUyNjc1MCwtMT
+cyOTA1Njg2OCwtMTU1NTU3ODM2OSwtMTQxODMyNjk1MiwxMjk3
+NjgwMl19
 -->
