@@ -13,8 +13,10 @@ $$P(Y=1||do(X=1))-P(Y=1||do(X=0))$$
 
 Therefore, we would like to estimate the distribution $$P(Y||do(X=x))$$
 
-However, $P(Y||do(X=x))$ is a manipulated model, which removes all arrows pointed $X$ from its paranets or stratified over the variables that meets the back-door criteria, i.e., $P(Y=y||do(X))$
+However, $P(Y||do(X=x))$ is a manipulated model, which removes all arrows pointed $X$ from its paranets or stratified over the variables that meets the back-door criteria, i.e., $P(Y=y||do(X)) = \sum_{z}P(Y=y|X=x, Z=z)P(Z=z)$.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzkyOTQwMjksLTE0MTgzMjY5NTIsMT
+eyJoaXN0b3J5IjpbLTE2NzQyMzMxNzIsLTE0MTgzMjY5NTIsMT
 I5NzY4MDJdfQ==
 -->
