@@ -27,11 +27,12 @@ and $$P(y|do(x)) = \sum_zP(z)P(y|x,z)$$
 
 The adjustment formula is straight forward to use while estimating causal effects, however, the adjustment procedure might have practical issues, as we adjust for many variables in $Z$, the data within each $Z=z$ cell might be too small to reliably estimate the conditional probability. The book also talks about another, more subtle procedure that overcomes the practical difficulties of adjustment - inverse probability weighing.
 
+If $P(X=x|Z=z)$$ is available to us, we can use it to generate artificial samples that act as though they were drawn from the postintervention probability P_m, rather than $P(x, y, z)$
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODc0MzI2NiwtMTg1NTUyNjc1MCwtMT
-cyOTA1Njg2OCwtMTU1NTU3ODM2OSwtMTQxODMyNjk1MiwxMjk3
-NjgwMl19
+eyJoaXN0b3J5IjpbLTE3OTgxNTgxMzgsLTE4NTU1MjY3NTAsLT
+E3MjkwNTY4NjgsLTE1NTU1NzgzNjksLTE0MTgzMjY5NTIsMTI5
+NzY4MDJdfQ==
 -->
