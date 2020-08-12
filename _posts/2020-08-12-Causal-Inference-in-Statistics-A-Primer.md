@@ -17,10 +17,12 @@ $$P(Y|do(X=x))$$
 
 $$P(Y|do(X=x))$$ is a manipulated model, which removes all arrows pointed $X$ from its paranets or stratified over the variables that meets the back-door criteria, i.e., $$P(Y=y|do(X)) = \sum_{z}P(Y=y|X=x, Z=z)P(Z=z)$$. This formula is derived using the unchanged conditional probability after the model is manipulated from the original one, therefore the conditional distribution can be directly estimated from the data. Therefore, the causal effect can be calculated using the observational data.
 
+The front-door criteria is also another way of calculating the causal effect of $X$ on $$
+
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzczNjA5MSwtMTU1NTU3ODM2OSwtMT
-QxODMyNjk1MiwxMjk3NjgwMl19
+eyJoaXN0b3J5IjpbLTE0MDc4MTc5OTUsLTE1NTU1NzgzNjksLT
+E0MTgzMjY5NTIsMTI5NzY4MDJdfQ==
 -->
