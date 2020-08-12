@@ -23,11 +23,13 @@ The graphical models also allow us to use the trancated product rule to calculat
 
 $$P(z, y| do(x))=P_m(z)P_m(y|x,z)=P(z)P(y|x,z)$$
 
-can
+and $$P(y|do(x)) = \sum_zP(z)P(y|x,z)$$
+
+
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY3Njk1NTksLTE3MjkwNTY4NjgsLT
+eyJoaXN0b3J5IjpbLTE4NTU1MjY3NTAsLTE3MjkwNTY4NjgsLT
 E1NTU1NzgzNjksLTE0MTgzMjY5NTIsMTI5NzY4MDJdfQ==
 -->
