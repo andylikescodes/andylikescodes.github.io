@@ -12,7 +12,9 @@ Under Pearl's framework, causal inference can be carried out using the do calcul
 
 $$P(Y=1||do(X=1))-P(Y=1||do(X=0))$$
 
-Therefore, we would like to estimate the distribution $$P(Y=1||do(X=x))$$
+Therefore, we would like to estimate the distribution $$P(Y||do(X=x))$$
+
+However, $P(Y||do(X=x))$ is a manipulated model fr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzY4MDJdfQ==
+eyJoaXN0b3J5IjpbMjA1MDU0MzU0MSwxMjk3NjgwMl19
 -->
