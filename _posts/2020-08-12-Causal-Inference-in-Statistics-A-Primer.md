@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Study Note - Causal Inference in Statistics: A Primer
+title: Study Note - Causal Inference in Statistics A Primer
 tag: [Study Notes]
 category: Causal Inference
 ---
@@ -15,6 +15,6 @@ Therefore, we would like to estimate the distribution $$P(Y||do(X=x))$$
 
 However, $P(Y||do(X=x))$ is a manipulated model, which removes all arrows pointed $X$ from its paranets or stratified over the variables that meets the back-door criteria, i.e., $P(Y=y||do(X))$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTc1MjExNSwtMTQxODMyNjk1MiwxMj
-k3NjgwMl19
+eyJoaXN0b3J5IjpbLTIwMzkyOTQwMjksLTE0MTgzMjY5NTIsMT
+I5NzY4MDJdfQ==
 -->
