@@ -25,12 +25,13 @@ $$P(z, y| do(x))=P_m(z)P_m(y|x,z)=P(z)P(y|x,z)$$
 
 and $$P(y|do(x)) = \sum_zP(z)P(y|x,z)$$
 
-The adjustment formula is straight forward to use while estimating causal effects, however, the adjustment procedure might have practical issues, as we adjust for many variables in $Z$, the data within each $Z=z$ cell might be too small to estimate  The book also talks about another, more subtle procedure that overcomes the practical difficulties of 
+The adjustment formula is straight forward to use while estimating causal effects, however, the adjustment procedure might have practical issues, as we adjust for many variables in $Z$, the data within each $Z=z$ cell might be too small to reliably estimate the conditional probability. The book also talks about another, more subtle procedure that overcomes the practical difficulties of adjustment - inverse probability weighing.
+
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2ODY1OTM3LC0xODU1NTI2NzUwLC0xNz
-I5MDU2ODY4LC0xNTU1NTc4MzY5LC0xNDE4MzI2OTUyLDEyOTc2
-ODAyXX0=
+eyJoaXN0b3J5IjpbLTU2ODc0MzI2NiwtMTg1NTUyNjc1MCwtMT
+cyOTA1Njg2OCwtMTU1NTU3ODM2OSwtMTQxODMyNjk1MiwxMjk3
+NjgwMl19
 -->
