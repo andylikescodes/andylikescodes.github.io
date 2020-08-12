@@ -19,11 +19,15 @@ $$P(Y\|do(X=x))$$ is a manipulated model, which removes all arrows pointed $X$ f
 
 The front-door criteria is also another way of calculating the causal effect of $X$ on $Y$ given a mediating variable $Z$, which does not depend on any confounding variables. Using the back-door criteria, we can estimate the causal effect of $Z$ on $Y$. We can also estimate the causal effect of $X$ on $Z$ directly because we know that it is a mediating variable and does not depend of other variables. When we aggregate the causal effect of $X$ on $Z$ and $Z$ on  $Y$, then we get the causal effect of $X$ on $Y$.
 
-The graphical models also allow us to use the trancated pro
+The graphical models also allow us to use the trancated product rule to calculate the manipulated model after intervention. For example:
+
+$$P(z, y| do(x))=P_m(z)P_m(y|x,z)=P(z)P(y|x,z)$$
+
+can
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTY1MDE2LC0xNzI5MDU2ODY4LC0xNT
-U1NTc4MzY5LC0xNDE4MzI2OTUyLDEyOTc2ODAyXX0=
+eyJoaXN0b3J5IjpbLTE0NDY3Njk1NTksLTE3MjkwNTY4NjgsLT
+E1NTU1NzgzNjksLTE0MTgzMjY5NTIsMTI5NzY4MDJdfQ==
 -->
