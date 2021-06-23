@@ -5,11 +5,11 @@ tag: [Study Notes]
 category: Causal Inference
 ---
 
-This post is a review of 
+This post is a review of paper
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzczMDMwMjVdfQ==
+eyJoaXN0b3J5IjpbLTE1MzI2OTc4N119
 -->
